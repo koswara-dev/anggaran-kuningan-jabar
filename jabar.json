@@ -1,53 +1,4454 @@
 {
   "peraturan_gubernur": {
-    "judul": "Data Anggaran Provinsi Jawa Barat On Progress",
-    "nomor": "-",
-    "tanggal_penetapan": "-",
-    "gubernur": "-",
-    "sekretaris_daerah": "-",
-    "ringkasan_anggaran": {
-      "pendapatan": {
-        "total_pendapatan_daerah": null,
-        "detail_pendapatan": {
-          "pendapatan_asli_daerah": {
-            "jumlah": null,
-            "sub_kategori": {}
-          },
-          "pendapatan_transfer": {
-            "jumlah": null,
-            "sub_kategori": {}
-          },
-          "lain_lain_pendapatan_daerah_yang_sah": null
-        }
-      },
-      "belanja": {
-        "total_belanja_daerah": null,
-        "detail_belanja": {
-          "belanja_operasional": {
-            "jumlah": null,
-            "sub_kategori": {}
-          },
-          "belanja_modal": {
-            "jumlah": null,
-            "sub_kategori": {}
-          },
-          "belanja_tidak_terduga": null,
-          "belanja_transfer": null
-        }
-      },
-      "pembiayaan": {
-        "penerimaan_pembiayaan": {
-          "jumlah": null,
-          "sub_kategori": {}
-        },
-        "pengeluaran_pembiayaan": {
-          "jumlah": null,
-          "sub_kategori": {}
-        },
-        "surplus_defisit": null,
-        "pembiayaan_neto": null
-      }
+    "judul": "RINGKASAN PENJABARAN APBD YANG DIKLASIFIKASI MENURUT KELOMPOK, JENIS, OBJEK, RINCIAN OBJEK PENDAPATAN, BELANJA, DAN PEMBIAYAAN TAHUN ANGGARAN 2025",
+    "nomor": "14 Tahun 2025",
+    "tanggal_penetapan": "16 April 2025",
+    "gubernur": "H. DEDI MULYADI, S.H., M.M",
+    "sekretaris_daerah": "Dr. Drs. Herman Suryatman, M.Si",
+    "detail_anggaran":
+      [
+    {
+        "kode": "4.1",
+        "uraian": "PENDAPATAN ASLI DAERAH (PAD)",
+        "sebelum_jumlah": "19307785060631.00",
+        "sesudah_jumlah": "19307785060631.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01",
+        "uraian": "Pajak Daerah",
+        "sebelum_jumlah": "17500724356809.00",
+        "sesudah_jumlah": "17500724356809.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01",
+        "uraian": "Pajak Kendaraan Bermotor (PKB)",
+        "sebelum_jumlah": "5857185199405.00",
+        "sesudah_jumlah": "5857185199405.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.01",
+        "uraian": "PKB-Mobil Penumpang-Sedan",
+        "sebelum_jumlah": "207709837890.00",
+        "sesudah_jumlah": "207709837890.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.01.0001",
+        "uraian": "PKB-Mobil Penumpang-Sedan-Pribadi",
+        "sebelum_jumlah": "206862150589.00",
+        "sesudah_jumlah": "206862150589.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.01.0002",
+        "uraian": "PKB-Mobil Penumpang-Sedan-Umum",
+        "sebelum_jumlah": "562756673.00",
+        "sesudah_jumlah": "562756673.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.01.0003",
+        "uraian": "PKB-Mobil Penumpang-Sedan-Pemerintah Pusat",
+        "sebelum_jumlah": "40376599.00",
+        "sesudah_jumlah": "40376599.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.02",
+        "uraian": "PKB-Mobil Penumpang-Jeep",
+        "sebelum_jumlah": "536772584315.00",
+        "sesudah_jumlah": "536772584315.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.02.0001",
+        "uraian": "PKB-Mobil Penumpang-Jeep-Pribadi",
+        "sebelum_jumlah": "535744002102.00",
+        "sesudah_jumlah": "535744002102.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.02.0003",
+        "uraian": "PKB-Mobil Penumpang-Jeep-Pemerintah Pusat",
+        "sebelum_jumlah": "119837886.00",
+        "sesudah_jumlah": "119837886.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.02.0004",
+        "uraian": "PKB-Mobil Penumpang-Jeep-Pemerintah Daerah",
+        "sebelum_jumlah": "908744327.00",
+        "sesudah_jumlah": "908744327.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.03",
+        "uraian": "PKB-Mobil Penumpang-Minibus",
+        "sebelum_jumlah": "2943267831832.00",
+        "sesudah_jumlah": "2943267831832.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.03.0001",
+        "uraian": "PKB-Mobil Penumpang-Minibus-Pribadi",
+        "sebelum_jumlah": "2931220578237.00",
+        "sesudah_jumlah": "2931220578237.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.03.0002",
+        "uraian": "PKB-Mobil Penumpang-Minibus-Umum",
+        "sebelum_jumlah": "4948347557.00",
+        "sesudah_jumlah": "4948347557.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.04",
+        "uraian": "PKB-Mobil Bus-Microbus",
+        "sebelum_jumlah": "24165211496.00",
+        "sesudah_jumlah": "24165211496.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.04.0001",
+        "uraian": "PKB-Mobil Bus-Microbus-Pribadi",
+        "sebelum_jumlah": "18807580329.00",
+        "sesudah_jumlah": "18807580329.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.04.0002",
+        "uraian": "PKB-Mobil Bus-Microbus-Umum",
+        "sebelum_jumlah": "4617234406.00",
+        "sesudah_jumlah": "4617234406.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.04.0003",
+        "uraian": "PKB-Mobil Bus-Microbus-Pemerintah Pusat",
+        "sebelum_jumlah": "135128321.00",
+        "sesudah_jumlah": "135128321.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.04.0004",
+        "uraian": "PKB-Mobil Bus-Microbus-Pemerintah Daerah",
+        "sebelum_jumlah": "605268440.00",
+        "sesudah_jumlah": "605268440.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.05",
+        "uraian": "PKB-Mobil Bus-Bus",
+        "sebelum_jumlah": "5712483572.00",
+        "sesudah_jumlah": "5712483572.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.05.0001",
+        "uraian": "PKB-Mobil Bus-Bus-Pribadi",
+        "sebelum_jumlah": "339001728.00",
+        "sesudah_jumlah": "339001728.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.05.0002",
+        "uraian": "PKB-Mobil Bus-Bus-Umum",
+        "sebelum_jumlah": "5319830304.00",
+        "sesudah_jumlah": "5319830304.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.05.0003",
+        "uraian": "PKB-Mobil Bus-Bus-Pemerintah Pusat",
+        "sebelum_jumlah": "6918196.00",
+        "sesudah_jumlah": "6918196.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.05.0004",
+        "uraian": "PKB-Mobil Bus-Bus-Pemerintah Daerah",
+        "sebelum_jumlah": "46733344.00",
+        "sesudah_jumlah": "46733344.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.06",
+        "uraian": "PKB-Mobil Barang/Beban-Pick Up",
+        "sebelum_jumlah": "268236207311.00",
+        "sesudah_jumlah": "268236207311.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.06.0001",
+        "uraian": "PKB-Mobil Barang/Beban-Pick Up-Pribadi",
+        "sebelum_jumlah": "264592638276.00",
+        "sesudah_jumlah": "264592638276.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.06.0002",
+        "uraian": "PKB-Mobil Barang/Beban-Pick Up-Umum",
+        "sebelum_jumlah": "1974952347.00",
+        "sesudah_jumlah": "1974952347.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.1.01.01.07",
+        "uraian": "PKB-Mobil Barang/Beban-Light Truck",
+        "sebelum_jumlah": "249576551769.00",
+        "sesudah_jumlah": "249576551769.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.07.0001",
+        "uraian": "PKB-Mobil Barang/Beban-Light Truck-Pribadi",
+        "sebelum_jumlah": "199698012958.00",
+        "sesudah_jumlah": "199698012958.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.07.0002",
+        "uraian": "PKB-Mobil Barang/Beban-Light Truck-Umum",
+        "sebelum_jumlah": "48610943747.00",
+        "sesudah_jumlah": "48610943747.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.08",
+        "uraian": "PKB-Mobil Barang/Beban-Truck",
+        "sebelum_jumlah": "93005639255.00",
+        "sesudah_jumlah": "93005639255.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.08.0001",
+        "uraian": "PKB-Mobil Barang/Beban-Truck-Pribadi",
+        "sebelum_jumlah": "29321717183.00",
+        "sesudah_jumlah": "29321717183.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.08.0002",
+        "uraian": "PKB-Mobil Barang/Beban-Truck-Umum",
+        "sebelum_jumlah": "63556961334.00",
+        "sesudah_jumlah": "63556961334.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.09",
+        "uraian": "PKB-Mobil Barang/Beban-Blind Van",
+        "sebelum_jumlah": "26455691701.00",
+        "sesudah_jumlah": "26455691701.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.09.0001",
+        "uraian": "PKB-Mobil Barang/Beban-Blind Van-Pribadi",
+        "sebelum_jumlah": "25395040263.00",
+        "sesudah_jumlah": "25395040263.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.09.0002",
+        "uraian": "PKB-Mobil Barang/Beban-Blind Van-Umum",
+        "sebelum_jumlah": "1019257735.00",
+        "sesudah_jumlah": "1019257735.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.10",
+        "uraian": "PKB-Sepeda Motor-Sepeda Motor Roda Dua",
+        "sebelum_jumlah": "1500378073550.00",
+        "sesudah_jumlah": "1500378073550.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.11",
+        "uraian": "PKB-Sepeda Motor-Sepeda Motor Roda Tiga",
+        "sebelum_jumlah": "1847617626.00",
+        "sesudah_jumlah": "1847617626.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.14",
+        "uraian": "PKB-Mobil Roda Tiga",
+        "sebelum_jumlah": "57469088.00",
+        "sesudah_jumlah": "57469088.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.14.0001",
+        "uraian": "PKB-Mobil Roda Tiga-Pribadi",
+        "sebelum_jumlah": "54356218.00",
+        "sesudah_jumlah": "54356218.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.14.0002",
+        "uraian": "PKB-Mobil Roda Tiga-Umum",
+        "sebelum_jumlah": "2656771.00",
+        "sesudah_jumlah": "2656771.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.01.14.0004",
+        "uraian": "PKB-Mobil Roda Tiga-Pemerintah Daerah",
+        "sebelum_jumlah": "456099.00",
+        "sesudah_jumlah": "456099.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02",
+        "uraian": "Bea Balik Nama Kendaraan Bermotor (BBNKB)",
+        "sebelum_jumlah": "3783495966524.00",
+        "sesudah_jumlah": "3783495966524.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.1.01.02.01",
+        "uraian": "BBNKB-Mobil Penumpang-Sedan",
+        "sebelum_jumlah": "71018675856.00",
+        "sesudah_jumlah": "71018675856.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.01.0001",
+        "uraian": "BBNKB-Mobil Penumpang-Sedan",
+        "sebelum_jumlah": "71018675856.00",
+        "sesudah_jumlah": "71018675856.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.02",
+        "uraian": "BBNKB-Mobil Penumpang-Jeep",
+        "sebelum_jumlah": "295258531943.00",
+        "sesudah_jumlah": "295258531943.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.02.0001",
+        "uraian": "BBNKB-Mobil Penumpang-Jeep",
+        "sebelum_jumlah": "295258531943.00",
+        "sesudah_jumlah": "295258531943.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.03",
+        "uraian": "BBNKB-Mobil Penumpang-Minibus",
+        "sebelum_jumlah": "1789926420506.00",
+        "sesudah_jumlah": "1789926420506.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.03.0001",
+        "uraian": "BBNKB-Mobil Penumpang-Minibus",
+        "sebelum_jumlah": "1789926420506.00",
+        "sesudah_jumlah": "1789926420506.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.04",
+        "uraian": "BBNKB-Mobil Bus-Microbus",
+        "sebelum_jumlah": "28717681834.00",
+        "sesudah_jumlah": "28717681834.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.04.0001",
+        "uraian": "BBNKB-Mobil Bus-Microbus",
+        "sebelum_jumlah": "28717681834.00",
+        "sesudah_jumlah": "28717681834.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.05",
+        "uraian": "BBNKB-Mobil Bus-Bus",
+        "sebelum_jumlah": "2512630787.00",
+        "sesudah_jumlah": "2512630787.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.05.0001",
+        "uraian": "BBNKB-Mobil Bus-Bus",
+        "sebelum_jumlah": "2512630787.00",
+        "sesudah_jumlah": "2512630787.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.06",
+        "uraian": "BBNKB-Mobil Barang/Beban-Pick Up",
+        "sebelum_jumlah": "146354878715.00",
+        "sesudah_jumlah": "146354878715.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.06.0001",
+        "uraian": "BBNKB-Mobil Barang/Beban-Pick Up",
+        "sebelum_jumlah": "146354878715.00",
+        "sesudah_jumlah": "146354878715.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.07",
+        "uraian": "BBNKB-Mobil Barang/Beban-Light Truck",
+        "sebelum_jumlah": "79608538425.00",
+        "sesudah_jumlah": "79608538425.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.07.0001",
+        "uraian": "BBNKB-Mobil Barang/Beban-Light Truck",
+        "sebelum_jumlah": "79608538425.00",
+        "sesudah_jumlah": "79608538425.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.08",
+        "uraian": "BBNKB-Mobil Barang/Beban-Truck",
+        "sebelum_jumlah": "56621611558.00",
+        "sesudah_jumlah": "56621611558.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.08.0001",
+        "uraian": "BBNKB-Mobil Barang/Beban-Truck",
+        "sebelum_jumlah": "56621611558.00",
+        "sesudah_jumlah": "56621611558.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.09",
+        "uraian": "BBNKB-Mobil Barang/Beban-Blind Van",
+        "sebelum_jumlah": "10825076476.00",
+        "sesudah_jumlah": "10825076476.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.09.0001",
+        "uraian": "BBNKB-Mobil Barang/Beban-Blind Van",
+        "sebelum_jumlah": "10825076476.00",
+        "sesudah_jumlah": "10825076476.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.10",
+        "uraian": "BBNKB-Sepeda Motor-Sepeda Motor Roda Dua",
+        "sebelum_jumlah": "1297579749360.00",
+        "sesudah_jumlah": "1297579749360.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.10.0001",
+        "uraian": "BBNKB-Sepeda Motor-Sepeda Motor Roda Dua",
+        "sebelum_jumlah": "1297579749360.00",
+        "sesudah_jumlah": "1297579749360.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.11",
+        "uraian": "BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga",
+        "sebelum_jumlah": "4819593223.00",
+        "sesudah_jumlah": "4819593223.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.11.0001",
+        "uraian": "BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga",
+        "sebelum_jumlah": "4819593223.00",
+        "sesudah_jumlah": "4819593223.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.14",
+        "uraian": "BBNKB-Mobil Roda Tiga",
+        "sebelum_jumlah": "252577841.00",
+        "sesudah_jumlah": "252577841.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.02.14.0001",
+        "uraian": "BBNKB-Mobil Roda Tiga",
+        "sebelum_jumlah": "252577841.00",
+        "sesudah_jumlah": "252577841.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.01",
+        "uraian": "PBBKB-Bahan Bakar Bensin",
+        "sebelum_jumlah": "2773056033736.00",
+        "sesudah_jumlah": "2773056033736.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.01.0001",
+        "uraian": "PBBKB Bahan Bakar Bensin",
+        "sebelum_jumlah": "2773056033736.00",
+        "sesudah_jumlah": "2773056033736.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.02",
+        "uraian": "PBBKB-Bahan Bakar Solar",
+        "sebelum_jumlah": "833713909681.00",
+        "sesudah_jumlah": "833713909681.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.02.0001",
+        "uraian": "PBBKB Bahan Bakar Solar",
+        "sebelum_jumlah": "833713909681.00",
+        "sesudah_jumlah": "833713909681.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.03",
+        "uraian": "PBBKB-Bahan Bakar Gas",
+        "sebelum_jumlah": "695016502.00",
+        "sesudah_jumlah": "695016502.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.03.0001",
+        "uraian": "PBBKB Bahan Bakar Gas",
+        "sebelum_jumlah": "695016502.00",
+        "sesudah_jumlah": "695016502.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.04",
+        "uraian": "PBBKB-Bahan Bakar Lainnya",
+        "sebelum_jumlah": "14256236301.00",
+        "sesudah_jumlah": "14256236301.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.03.04.0001",
+        "uraian": "PBBKB Bahan Bakar Lainnya",
+        "sebelum_jumlah": "14256236301.00",
+        "sesudah_jumlah": "14256236301.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.04",
+        "uraian": "Pajak Air Permukaan",
+        "sebelum_jumlah": "79826658033.00",
+        "sesudah_jumlah": "79826658033.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.04.01",
+        "uraian": "Pajak Air Permukaan",
+        "sebelum_jumlah": "79826658033.00",
+        "sesudah_jumlah": "79826658033.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.04.01.0001",
+        "uraian": "Pajak Air Permukaan",
+        "sebelum_jumlah": "79826658033.00",
+        "sesudah_jumlah": "79826658033.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.1.01.05",
+        "uraian": "Pajak Rokok",
+        "sebelum_jumlah": "4108448055422.00",
+        "sesudah_jumlah": "4108448055422.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.05.01",
+        "uraian": "Pajak Rokok",
+        "sebelum_jumlah": "4108448055422.00",
+        "sesudah_jumlah": "4108448055422.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.05.01.0001",
+        "uraian": "Pajak Rokok",
+        "sebelum_jumlah": "4108448055422.00",
+        "sesudah_jumlah": "4108448055422.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.17",
+        "uraian": "Pajak Alat Berat",
+        "sebelum_jumlah": "619564920.00",
+        "sesudah_jumlah": "619564920.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.17.01",
+        "uraian": "Pajak Alat Berat",
+        "sebelum_jumlah": "619564920.00",
+        "sesudah_jumlah": "619564920.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.01.17.01.0001",
+        "uraian": "Pajak Alat Berat",
+        "sebelum_jumlah": "619564920.00",
+        "sesudah_jumlah": "619564920.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02",
+        "uraian": "Retribusi Daerah",
+        "sebelum_jumlah": "864654997997.00",
+        "sesudah_jumlah": "864654997997.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.01",
+        "uraian": "Retribusi Jasa Umum",
+        "sebelum_jumlah": "766554758091.00",
+        "sesudah_jumlah": "766554758091.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.01.01",
+        "uraian": "Retribusi Pelayanan Kesehatan",
+        "sebelum_jumlah": "766554758091.00",
+        "sesudah_jumlah": "766554758091.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.02",
+        "uraian": "Retribusi Jasa Usaha",
+        "sebelum_jumlah": "92282387906.00",
+        "sesudah_jumlah": "92282387906.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.02.01",
+        "uraian": "Retribusi Pemakaian Kekayaan Daerah",
+        "sebelum_jumlah": "35933385484.00",
+        "sesudah_jumlah": "38405652984.00",
+        "selisih": "2472267500.00"
+    },
+    {
+        "kode": "4.1.02.02.01.0001",
+        "uraian": "Retribusi Penyewaan Tanah dan Bangunan",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "1462482500.00",
+        "selisih": "1462482500.00"
+    },
+    {
+        "kode": "4.1.02.02.01.0002",
+        "uraian": "Retribusi Penyewaan Tanah",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "1460700000.00",
+        "selisih": "1460700000.00"
+    },
+    {
+        "kode": "4.1.02.02.01.0004",
+        "uraian": "Retribusi Pemakaian Laboratorium",
+        "sebelum_jumlah": "4488945000.00",
+        "sesudah_jumlah": "4488945000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.02.01.0005",
+        "uraian": "Retribusi Pemakaian Ruangan",
+        "sebelum_jumlah": "31246310224.00",
+        "sesudah_jumlah": "30795395224.00",
+        "selisih": "-450915000.00"
+    },
+    {
+        "kode": "4.1.02.02.01.0007",
+        "uraian": "Retribusi Pemakaian Alat",
+        "sebelum_jumlah": "198130260.00",
+        "sesudah_jumlah": "198130260.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.02.09",
+        "uraian": "Retribusi Tempat Rekreasi dan Olahraga",
+        "sebelum_jumlah": "1092600000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-1092600000.00"
+    },
+    {
+        "kode": "4.1.02.02.11",
+        "uraian": "Retribusi Penjualan Produksi Usaha Daerah",
+        "sebelum_jumlah": "43452088685.00",
+        "sesudah_jumlah": "43452088685.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.1.02.02.20",
+        "uraian": "Retribusi Pemanfaatan Aset Daerah",
+        "sebelum_jumlah": "2472267500.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-2472267500.00"
+    },
+    {
+        "kode": "4.1.02.02.20.0001",
+        "uraian": "Retribusi Pemanfaatan Aset Daerah",
+        "sebelum_jumlah": "2472267500.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-2472267500.00"
+    },
+    {
+        "kode": "4.1.02.03",
+        "uraian": "Retribusi Perizinan Tertentu",
+        "sebelum_jumlah": "5817852000.00",
+        "sesudah_jumlah": "5817852000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.03.08",
+        "uraian": "Retribusi Penggunaan Tenaga Kerja Asing (TKA)",
+        "sebelum_jumlah": "5817852000.00",
+        "sesudah_jumlah": "5817852000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.02.03.08.0001",
+        "uraian": "Retribusi Penggunaan Tenaga Kerja Asing (TKA)",
+        "sebelum_jumlah": "5817852000.00",
+        "sesudah_jumlah": "5817852000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04",
+        "uraian": "Lain-lain PAD yang Sah",
+        "sebelum_jumlah": "531765126324.00",
+        "sesudah_jumlah": "531765126324.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.03",
+        "uraian": "Hasil Pemanfaatan BMD yang Tidak Dipisahkan",
+        "sebelum_jumlah": "12412514930.00",
+        "sesudah_jumlah": "8212514930.00",
+        "selisih": "-4200000000.00"
+    },
+    {
+        "kode": "4.1.04.03.01",
+        "uraian": "Hasil Sewa BMD",
+        "sebelum_jumlah": "1899147930.00",
+        "sesudah_jumlah": "1899147930.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.03.01.0001",
+        "uraian": "Hasil Sewa BMD",
+        "sebelum_jumlah": "1899147930.00",
+        "sesudah_jumlah": "1899147930.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.03.02",
+        "uraian": "Hasil Kerja Sama Pemanfaatan BMD",
+        "sebelum_jumlah": "8433367000.00",
+        "sesudah_jumlah": "4233367000.00",
+        "selisih": "-4200000000.00"
+    },
+    {
+        "kode": "4.1.04.03.02.0001",
+        "uraian": "Hasil Kerja Sama Pemanfaatan BMD",
+        "sebelum_jumlah": "8433367000.00",
+        "sesudah_jumlah": "4233367000.00",
+        "selisih": "-4200000000.00"
+    },
+    {
+        "kode": "4.1.04.03.03",
+        "uraian": "Hasil dari Bangun Guna Serah",
+        "sebelum_jumlah": "2080000000.00",
+        "sesudah_jumlah": "2080000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.03.03.0001",
+        "uraian": "Hasil dari Bangun Guna Serah",
+        "sebelum_jumlah": "2080000000.00",
+        "sesudah_jumlah": "2080000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.04",
+        "uraian": "Hasil Kerja Sama Daerah",
+        "sebelum_jumlah": "25954470000.00",
+        "sesudah_jumlah": "30154470000.00",
+        "selisih": "4200000000.00"
+    },
+    
+    {
+        "kode": "4.1.04.04.01",
+        "uraian": "Hasil Kerja Sama Daerah",
+        "sebelum_jumlah": "25954470000.00",
+        "sesudah_jumlah": "30154470000.00",
+        "selisih": "4200000000.00"
+    },
+    {
+        "kode": "4.1.04.04.01.0001",
+        "uraian": "Hasil Kerja Sama Daerah",
+        "sebelum_jumlah": "25954470000.00",
+        "sesudah_jumlah": "30154470000.00",
+        "selisih": "4200000000.00"
+    },
+    {
+        "kode": "4.1.04.05",
+        "uraian": "Jasa Giro",
+        "sebelum_jumlah": "26456508414.00",
+        "sesudah_jumlah": "26456508414.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.05.01",
+        "uraian": "Jasa Giro pada Kas Daerah",
+        "sebelum_jumlah": "19008381429.00",
+        "sesudah_jumlah": "19008381429.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.05.01.0001",
+        "uraian": "Jasa Giro pada Kas Daerah",
+        "sebelum_jumlah": "19008381429.00",
+        "sesudah_jumlah": "19008381429.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.05.02",
+        "uraian": "Jasa Giro pada Kas di Bendahara",
+        "sebelum_jumlah": "7448126985.00",
+        "sesudah_jumlah": "7448126985.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.05.02.0001",
+        "uraian": "Jasa Giro pada Kas di Bendahara",
+        "sebelum_jumlah": "7448126985.00",
+        "sesudah_jumlah": "7448126985.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.07",
+        "uraian": "Pendapatan Bunga",
+        "sebelum_jumlah": "57363013689.00",
+        "sesudah_jumlah": "57363013689.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12",
+        "uraian": "Pendapatan Denda Pajak Daerah",
+        "sebelum_jumlah": "385595440492.00",
+        "sesudah_jumlah": "385595440492.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.01.0031",
+        "uraian": "Pendapatan Denda PKB-Mobil Bus-Bus-Pribadi",
+        "sebelum_jumlah": "12624695.00",
+        "sesudah_jumlah": "12624695.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.1.04.12.01.0032",
+        "uraian": "Pendapatan Denda PKB-Mobil Bus-Bus-Umum",
+        "sebelum_jumlah": "409815713.00",
+        "sesudah_jumlah": "409815713.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.01.0067",
+        "uraian": "Pendapatan Denda PKB-Mobil Roda Tiga-Pribadi",
+        "sebelum_jumlah": "236830.00",
+        "sesudah_jumlah": "236830.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.01.0068",
+        "uraian": "Pendapatan Denda PKB-Mobil Roda Tiga-Umum",
+        "sebelum_jumlah": "355444.00",
+        "sesudah_jumlah": "355444.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.1.04.12.02.0004",
+        "uraian": "Pendapatan Denda BBNKB-Mobil Bus-Microbus",
+        "sebelum_jumlah": "37465400.00",
+        "sesudah_jumlah": "37465400.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.02.0005",
+        "uraian": "Pendapatan Denda BBNKB-Mobil Bus-Bus",
+        "sebelum_jumlah": "22771600.00",
+        "sesudah_jumlah": "22771600.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.02.0014",
+        "uraian": "Pendapatan Denda BBNKB-Mobil Roda Tiga",
+        "sebelum_jumlah": "446900.00",
+        "sesudah_jumlah": "446900.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.04",
+        "uraian": "Pendapatan Denda Pajak Air Permukaan",
+        "sebelum_jumlah": "36056200.00",
+        "sesudah_jumlah": "36056200.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.12.04.0001",
+        "uraian": "Pendapatan Denda Pajak Air Permukaan",
+        "sebelum_jumlah": "36056200.00",
+        "sesudah_jumlah": "36056200.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.1.04.16",
+        "uraian": "Pendapatan BLUD",
+        "sebelum_jumlah": "23983178799.00",
+        "sesudah_jumlah": "23983178799.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2",
+        "uraian": "PENDAPATAN TRANSFER",
+        "sebelum_jumlah": "11667983182300.00",
+        "sesudah_jumlah": "11498429351300.00",
+        "selisih": "-169553831000.00"
+    },
+    {
+        "kode": "4.2.01",
+        "uraian": "Pendapatan Transfer Pemerintah Pusat",
+        "sebelum_jumlah": "11667983182300.00",
+        "sesudah_jumlah": "11498429351300.00",
+        "selisih": "-169553831000.00"
+    },
+    {
+        "kode": "4.2.01.07",
+        "uraian": "Dana Bagi Hasil (DBH)",
+        "sebelum_jumlah": "2503586756300.00",
+        "sesudah_jumlah": "2503586756300.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.01",
+        "uraian": "DBH Pajak",
+        "sebelum_jumlah": "2098014021500.00",
+        "sesudah_jumlah": "2098014021500.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.01.0001",
+        "uraian": "DBH PBB",
+        "sebelum_jumlah": "152464327000.00",
+        "sesudah_jumlah": "152464327000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.01.0002",
+        "uraian": "DBH PPh Pasal 21",
+        "sebelum_jumlah": "1668239106500.00",
+        "sesudah_jumlah": "1668239106500.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.01.0003",
+        "uraian": "DBH PPh Pasal 25 dan Pasal 29/WPOPDN",
+        "sebelum_jumlah": "107054355000.00",
+        "sesudah_jumlah": "107054355000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.01.0004",
+        "uraian": "DBH Cukai Hasil Tembakau (CHT)",
+        "sebelum_jumlah": "170256233000.00",
+        "sesudah_jumlah": "170256233000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.02",
+        "uraian": "DBH Sumber Daya Alam (SDA)",
+        "sebelum_jumlah": "404458378800.00",
+        "sesudah_jumlah": "404458378800.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.02.0001",
+        "uraian": "DBH SDA Minyak Bumi",
+        "sebelum_jumlah": "47802650000.00",
+        "sesudah_jumlah": "47802650000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.02.0002",
+        "uraian": "DBH SDA Gas Bumi",
+        "sebelum_jumlah": "14657118000.00",
+        "sesudah_jumlah": "14657118000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.02.0003",
+        "uraian": "DBH SDA Pengusahaan Panas Bumi",
+        "sebelum_jumlah": "322532877800.00",
+        "sesudah_jumlah": "322532877800.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.02.0004",
+        "uraian": "DBH SDA Mineral dan Batubara-Landrent",
+        "sebelum_jumlah": "431126500.00",
+        "sesudah_jumlah": "431126500.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "4.2.01.07.02.0005",
+        "uraian": "DBH SDA Mineral dan Batubara-Royalty",
+        "sebelum_jumlah": "18571783500.00",
+        "sesudah_jumlah": "18571783500.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.02.0008",
+        "uraian": "DBH SDA Kehutanan-Dana Reboisasi (DR)",
+        "sebelum_jumlah": "3643500.00",
+        "sesudah_jumlah": "3643500.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.03",
+        "uraian": "DBH Lainnya",
+        "sebelum_jumlah": "1114356000.00",
+        "sesudah_jumlah": "1114356000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.07.03.0001",
+        "uraian": "DBH Sawit",
+        "sebelum_jumlah": "1114356000.00",
+        "sesudah_jumlah": "1114356000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.08",
+        "uraian": "Dana Alokasi Umum (DAU)",
+        "sebelum_jumlah": "4042633210000.00",
+        "sesudah_jumlah": "3996117553000.00",
+        "selisih": "-46515657000.00"
+    },
+    {
+        "kode": "4.2.01.08.01",
+        "uraian": "DAU yang Tidak Ditentukan Penggunaannya",
+        "sebelum_jumlah": "4042633210000.00",
+        "sesudah_jumlah": "3996117553000.00",
+        "selisih": "-46515657000.00"
+    },
+    {
+        "kode": "4.2.01.08.01.0001",
+        "uraian": "DAU",
+        "sebelum_jumlah": "4042633210000.00",
+        "sesudah_jumlah": "3996117553000.00",
+        "selisih": "-46515657000.00"
+    },
+    {
+        "kode": "4.2.01.09",
+        "uraian": "Dana Alokasi Khusus (DAK)",
+        "sebelum_jumlah": "5121763216000.00",
+        "sesudah_jumlah": "4998725042000.00",
+        "selisih": "-123038174000.00"
+    },
+    {
+        "kode": "4.2.01.09.01",
+        "uraian": "DAK Fisik",
+        "sebelum_jumlah": "276679056000.00",
+        "sesudah_jumlah": "153640882000.00",
+        "selisih": "-123038174000.00"
+    },
+    {
+        "kode": "4.2.01.09.01.0004",
+        "uraian": "DAK Fisik-Bidang Pendidikan-Reguler-SMA",
+        "sebelum_jumlah": "1679541000.00",
+        "sesudah_jumlah": "1679541000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.01.0005",
+        "uraian": "DAK Fisik-Bidang Pendidikan-Reguler-SLB",
+        "sebelum_jumlah": "8511809000.00",
+        "sesudah_jumlah": "8511809000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.01.0010",
+        "uraian": "DAK Fisik-Bidang Pendidikan-Penugasan-SMK",
+        "sebelum_jumlah": "117640400000.00",
+        "sesudah_jumlah": "117640400000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.01.0035",
+        "uraian": "DAK Fisik-Bidang Jalan-Penugasan-Jalan",
+        "sebelum_jumlah": "16770741000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-16770741000.00"
+    },
+    {
+        "kode": "4.2.01.09.01.0043",
+        "uraian": "DAK Fisik-Bidang Irigasi-Penugasan",
+        "sebelum_jumlah": "44414105000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-44414105000.00"
+    },
+    {
+        "kode": "4.2.01.09.02",
+        "uraian": "DAK Non Fisik",
+        "sebelum_jumlah": "4845084160000.00",
+        "sesudah_jumlah": "4845084160000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.02.0001",
+        "uraian": "DAK Non Fisik-BOS Reguler",
+        "sebelum_jumlah": "3207655340000.00",
+        "sesudah_jumlah": "3207655340000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.02.0003",
+        "uraian": "DAK Non Fisik-BOS Kinerja",
+        "sebelum_jumlah": "48957732000.00",
+        "sesudah_jumlah": "48957732000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.02.0004",
+        "uraian": "DAK Non Fisik-TPG PNSD",
+        "sebelum_jumlah": "1539123732000.00",
+        "sesudah_jumlah": "1539123732000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.02.0005",
+        "uraian": "DAK Non Fisik-Tamsil Guru PNSD",
+        "sebelum_jumlah": "6415500000.00",
+        "sesudah_jumlah": "6415500000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.02.0011",
+        "uraian": "DAK Non Fisik-BOKKB-BOK",
+        "sebelum_jumlah": "37191106000.00",
+        "sesudah_jumlah": "37191106000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.2.01.09.02.0015",
+        "uraian": "DAK Non Fisik-BOKKB-BOKB",
+        "sebelum_jumlah": "200000000.00",
+        "sesudah_jumlah": "200000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.3",
+        "uraian": "LAIN-LAIN PENDAPATAN DAERAH YANG SAH",
+        "sebelum_jumlah": "23194776000.00",
+        "sesudah_jumlah": "23194776000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "4.3.01",
+        "uraian": "Pendapatan Hibah",
+        "sebelum_jumlah": "23194776000.00",
+        "sesudah_jumlah": "23194776000.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.1",
+        "uraian": "BELANJA OPERASI",
+        "sebelum_jumlah": "20160050586717.00",
+        "sesudah_jumlah": "19418686646664.08",
+        "selisih": "-741363940052.92"
+    },
+    {
+        "kode": "5.1.01",
+        "uraian": "Belanja Pegawai",
+        "sebelum_jumlah": "9114143199596.77",
+        "sesudah_jumlah": "9113313015397.77",
+        "selisih": "-830184199.00"
+    },
+    {
+        "kode": "5.1.01.01",
+        "uraian": "Belanja Gaji dan Tunjangan ASN",
+        "sebelum_jumlah": "3890480280836.35",
+        "sesudah_jumlah": "3892758915414.35",
+        "selisih": "2278634578.00"
+    },
+    {
+        "kode": "5.1.01.01.01",
+        "uraian": "Belanja Gaji Pokok ASN",
+        "sebelum_jumlah": "2873823474925.59",
+        "sesudah_jumlah": "2872148741039.59",
+        "selisih": "-1674733886.00"
+    },
+    {
+        "kode": "5.1.01.01.01.0001",
+        "uraian": "Belanja Gaji Pokok PNS",
+        "sebelum_jumlah": "1719689820207.59",
+        "sesudah_jumlah": "1717776538209.59",
+        "selisih": "-1913281998.00"
+    },
+    {
+        "kode": "5.1.01.01.01.0002",
+        "uraian": "Belanja Gaji Pokok PPPK",
+        "sebelum_jumlah": "1154133654718.00",
+        "sesudah_jumlah": "1154372202830.00",
+        "selisih": "238548112.00"
+    },
+    {
+        "kode": "5.1.01.01.02",
+        "uraian": "Belanja Tunjangan Keluarga ASN",
+        "sebelum_jumlah": "280101477377.74",
+        "sesudah_jumlah": "280251591219.74",
+        "selisih": "150113842.00"
+    },
+    {
+        "kode": "5.1.01.01.02.0001",
+        "uraian": "Belanja Tunjangan Keluarga PNS",
+        "sebelum_jumlah": "168495302872.34",
+        "sesudah_jumlah": "168481998260.34",
+        "selisih": "-13304612.00"
+    },
+    {
+        "kode": "5.1.01.01.02.0002",
+        "uraian": "Belanja Tunjangan Keluarga PPPK",
+        "sebelum_jumlah": "111606174505.40",
+        "sesudah_jumlah": "111769592959.40",
+        "selisih": "163418454.00"
+    },
+    {
+        "kode": "5.1.01.01.03",
+        "uraian": "Belanja Tunjangan Jabatan ASN",
+        "sebelum_jumlah": "10640251372.00",
+        "sesudah_jumlah": "10637348872.00",
+        "selisih": "-2902500.00"
+    },
+    {
+        "kode": "5.1.01.01.03.0001",
+        "uraian": "Belanja Tunjangan Jabatan PNS",
+        "sebelum_jumlah": "10471673947.00",
+        "sesudah_jumlah": "10468771447.00",
+        "selisih": "-2902500.00"
+    },
+    {
+        "kode": "5.1.01.01.03.0002",
+        "uraian": "Belanja Tunjangan Jabatan PPPK",
+        "sebelum_jumlah": "168577425.00",
+        "sesudah_jumlah": "168577425.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.01.04",
+        "uraian": "Belanja Tunjangan Fungsional ASN",
+        "sebelum_jumlah": "246584761107.02",
+        "sesudah_jumlah": "249033860187.02",
+        "selisih": "2449099080.00"
+    },
+    {
+        "kode": "5.1.01.01.04.0001",
+        "uraian": "Belanja Tunjangan Fungsional PNS",
+        "sebelum_jumlah": "132905545715.00",
+        "sesudah_jumlah": "133915622715.00",
+        "selisih": "1010077000.00"
+    },
+    {
+        "kode": "5.1.01.01.04.0002",
+        "uraian": "Belanja Tunjangan Fungsional PPPK",
+        "sebelum_jumlah": "113679215392.02",
+        "sesudah_jumlah": "115118237472.02",
+        "selisih": "1439022080.00"
+    },
+    {
+        "kode": "5.1.01.01.05",
+        "uraian": "Belanja Tunjangan Fungsional Umum ASN",
+        "sebelum_jumlah": "20339487042.04",
+        "sesudah_jumlah": "21120648042.04",
+        "selisih": "781161000.00"
+    },
+    {
+        "kode": "5.1.01.01.05.0001",
+        "uraian": "Belanja Tunjangan Fungsional Umum PNS",
+        "sebelum_jumlah": "18174073688.00",
+        "sesudah_jumlah": "18149860688.00",
+        "selisih": "-24213000.00"
+    },
+    {
+        "kode": "5.1.01.01.05.0002",
+        "uraian": "Belanja Tunjangan Fungsional Umum PPPK",
+        "sebelum_jumlah": "2165413354.04",
+        "sesudah_jumlah": "2970787354.04",
+        "selisih": "805374000.00"
+    },
+    {
+        "kode": "5.1.01.01.06",
+        "uraian": "Belanja Tunjangan Beras ASN",
+        "sebelum_jumlah": "161868786319.00",
+        "sesudah_jumlah": "161881616687.00",
+        "selisih": "12830368.00"
+    },
+    {
+        "kode": "5.1.01.01.06.0001",
+        "uraian": "Belanja Tunjangan Beras PNS",
+        "sebelum_jumlah": "87786623875.00",
+        "sesudah_jumlah": "87777208683.00",
+        "selisih": "-9415192.00"
+    },
+    {
+        "kode": "5.1.01.01.06.0002",
+        "uraian": "Belanja Tunjangan Beras PPPK",
+        "sebelum_jumlah": "74082162444.00",
+        "sesudah_jumlah": "74104408004.00",
+        "selisih": "22245560.00"
+    },
+    {
+        "kode": "5.1.01.01.07",
+        "uraian": "Belanja Tunjangan PPh/Tunjangan Khusus ASN",
+        "sebelum_jumlah": "4053469287.00",
+        "sesudah_jumlah": "4778024621.00",
+        "selisih": "724555334.00"
+    },
+    {
+        "kode": "5.1.01.01.07.0001",
+        "uraian": "Belanja Tunjangan PPh/Tunjangan Khusus PNS",
+        "sebelum_jumlah": "3940998575.00",
+        "sesudah_jumlah": "4665553909.00",
+        "selisih": "724555334.00"
+    },
+    {
+        "kode": "5.1.01.01.07.0002",
+        "uraian": "Belanja Tunjangan PPh/Tunjangan Khusus PPPK",
+        "sebelum_jumlah": "112470712.00",
+        "sesudah_jumlah": "112470712.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.01.08",
+        "uraian": "Belanja Pembulatan Gaji ASN",
+        "sebelum_jumlah": "44741817.56",
+        "sesudah_jumlah": "44783875.56",
+        "selisih": "42058.00"
+    },
+    {
+        "kode": "5.1.01.01.08.0001",
+        "uraian": "Belanja Pembulatan Gaji PNS",
+        "sebelum_jumlah": "27043284.00",
+        "sesudah_jumlah": "27041862.00",
+        "selisih": "-1422.00"
+    },
+    {
+        "kode": "5.1.01.01.08.0002",
+        "uraian": "Belanja Pembulatan Gaji PPPK",
+        "sebelum_jumlah": "17698533.56",
+        "sesudah_jumlah": "17742013.56",
+        "selisih": "43480.00"
+    },
+    {
+        "kode": "5.1.01.01.09",
+        "uraian": "Belanja Iuran Jaminan Kesehatan ASN",
+        "sebelum_jumlah": "253098013917.00",
+        "sesudah_jumlah": "252942260641.00",
+        "selisih": "-155753276.00"
+    },
+    {
+        "kode": "5.1.01.01.09.0001",
+        "uraian": "Belanja Iuran Jaminan Kesehatan PNS",
+        "sebelum_jumlah": "156710118565.00",
+        "sesudah_jumlah": "156521923577.00",
+        "selisih": "-188194988.00"
+    },
+    {
+        "kode": "5.1.01.01.09.0002",
+        "uraian": "Belanja Iuran Jaminan Kesehatan PPPK",
+        "sebelum_jumlah": "96387895352.00",
+        "sesudah_jumlah": "96420337064.00",
+        "selisih": "32441712.00"
+    },
+    
+    {
+        "kode": "5.1.01.01.10",
+        "uraian": "Belanja Iuran Jaminan Kecelakaan Kerja ASN",
+        "sebelum_jumlah": "6064846638.00",
+        "sesudah_jumlah": "6062030565.00",
+        "selisih": "-2816073.00"
+    },
+    {
+        "kode": "5.1.01.01.10.0001",
+        "uraian": "Belanja Iuran Jaminan Kecelakaan Kerja PNS",
+        "sebelum_jumlah": "3634147250.00",
+        "sesudah_jumlah": "3630833058.00",
+        "selisih": "-3314192.00"
+    },
+    {
+        "kode": "5.1.01.01.10.0002",
+        "uraian": "Belanja Iuran Jaminan Kecelakaan Kerja PPPK",
+        "sebelum_jumlah": "2430699388.00",
+        "sesudah_jumlah": "2431197507.00",
+        "selisih": "498119.00"
+    },
+    {
+        "kode": "5.1.01.01.11",
+        "uraian": "Belanja Iuran Jaminan Kematian ASN",
+        "sebelum_jumlah": "18068404462.00",
+        "sesudah_jumlah": "18059956250.00",
+        "selisih": "-8448212.00"
+    },
+    {
+        "kode": "5.1.01.01.11.0001",
+        "uraian": "Belanja Iuran Jaminan Kematian PNS",
+        "sebelum_jumlah": "11130546527.00",
+        "sesudah_jumlah": "11120603962.00",
+        "selisih": "-9942565.00"
+    },
+    {
+        "kode": "5.1.01.01.11.0002",
+        "uraian": "Belanja Iuran Jaminan Kematian PPPK",
+        "sebelum_jumlah": "6937857935.00",
+        "sesudah_jumlah": "6939352288.00",
+        "selisih": "1494353.00"
+    },
+    {
+        "kode": "5.1.01.02",
+        "uraian": "Belanja Tambahan Penghasilan ASN",
+        "sebelum_jumlah": "4847551107368.42",
+        "sesudah_jumlah": "4846622592952.42",
+        "selisih": "-928514416.00"
+    },
+    
+    {
+        "kode": "5.1.01.02.06.0064",
+        "uraian": "Belanja Tunjangan Profesi Guru (TPG) PNSD",
+        "sebelum_jumlah": "1539123732000.00",
+        "sesudah_jumlah": "1539123732000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.03.07",
+        "uraian": "Belanja Honorarium",
+        "sebelum_jumlah": "1671775737.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-1671775737.00"
+    },
+    {
+        "kode": "5.1.01.03.08",
+        "uraian": "Belanja Jasa Pengelolaan BMD",
+        "sebelum_jumlah": "110880000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-110880000.00"
+    },
+    {
+        "kode": "5.1.01.04",
+        "uraian": "Belanja Gaji dan Tunjangan DPRD",
+        "sebelum_jumlah": "177459128555.00",
+        "sesudah_jumlah": "177459128555.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.01",
+        "uraian": "Belanja Uang Representasi DPRD",
+        "sebelum_jumlah": "3798900000.00",
+        "sesudah_jumlah": "3798900000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.01.0001",
+        "uraian": "Belanja Uang Representasi DPRD",
+        "sebelum_jumlah": "3798900000.00",
+        "sesudah_jumlah": "3798900000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.02",
+        "uraian": "Belanja Tunjangan Keluarga DPRD",
+        "sebelum_jumlah": "759780000.00",
+        "sesudah_jumlah": "759780000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.02.0001",
+        "uraian": "Belanja Tunjangan Keluarga DPRD",
+        "sebelum_jumlah": "759780000.00",
+        "sesudah_jumlah": "759780000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.03",
+        "uraian": "Belanja Tunjangan Beras DPRD",
+        "sebelum_jumlah": "486662400.00",
+        "sesudah_jumlah": "486662400.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.03.0001",
+        "uraian": "Belanja Tunjangan Beras DPRD",
+        "sebelum_jumlah": "486662400.00",
+        "sesudah_jumlah": "486662400.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.04",
+        "uraian": "Belanja Uang Paket DPRD",
+        "sebelum_jumlah": "379890000.00",
+        "sesudah_jumlah": "379890000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.04.0001",
+        "uraian": "Belanja Uang Paket DPRD",
+        "sebelum_jumlah": "379890000.00",
+        "sesudah_jumlah": "379890000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.05",
+        "uraian": "Belanja Tunjangan Jabatan DPRD",
+        "sebelum_jumlah": "5508405000.00",
+        "sesudah_jumlah": "5508405000.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.1.01.04.05.0001",
+        "uraian": "Belanja Tunjangan Jabatan DPRD",
+        "sebelum_jumlah": "5508405000.00",
+        "sesudah_jumlah": "5508405000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.06",
+        "uraian": "Belanja Tunjangan Alat Kelengkapan DPRD",
+        "sebelum_jumlah": "553059000.00",
+        "sesudah_jumlah": "553059000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.06.0001",
+        "uraian": "Belanja Tunjangan Alat Kelengkapan DPRD",
+        "sebelum_jumlah": "553059000.00",
+        "sesudah_jumlah": "553059000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.09",
+        "uraian": "Belanja Tunjangan Reses DPRD",
+        "sebelum_jumlah": "7560000000.00",
+        "sesudah_jumlah": "7560000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.09.0001",
+        "uraian": "Belanja Tunjangan Reses DPRD",
+        "sebelum_jumlah": "7560000000.00",
+        "sesudah_jumlah": "7560000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.11",
+        "uraian": "Belanja Pembulatan Gaji DPRD",
+        "sebelum_jumlah": "79155.00",
+        "sesudah_jumlah": "79155.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.11.0001",
+        "uraian": "Belanja Pembulatan Gaji DPRD",
+        "sebelum_jumlah": "79155.00",
+        "sesudah_jumlah": "79155.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.12.0001",
+        "uraian": "Belanja Iuran Jaminan Kesehatan bagi DPRD",
+        "sebelum_jumlah": "432000000.00",
+        "sesudah_jumlah": "432000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.12.0002",
+        "uraian": "Belanja Jaminan Kecelakaan Kerja DPRD",
+        "sebelum_jumlah": "51840000.00",
+        "sesudah_jumlah": "51840000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.12.0003",
+        "uraian": "Belanja Jaminan Kematian DPRD",
+        "sebelum_jumlah": "93600000.00",
+        "sesudah_jumlah": "93600000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.12.0004",
+        "uraian": "Belanja Tunjangan Perumahan DPRD",
+        "sebelum_jumlah": "89532000000.00",
+        "sesudah_jumlah": "89532000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.13",
+        "uraian": "Belanja Tunjangan Transportasi DPRD",
+        "sebelum_jumlah": "37379250000.00",
+        "sesudah_jumlah": "37379250000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.13.0001",
+        "uraian": "Belanja Tunjangan Transportasi DPRD",
+        "sebelum_jumlah": "37379250000.00",
+        "sesudah_jumlah": "37379250000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.14",
+        "uraian": "Belanja Uang Jasa Pengabdian DPRD",
+        "sebelum_jumlah": "30300000.00",
+        "sesudah_jumlah": "30300000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.04.14.0001",
+        "uraian": "Belanja Uang Jasa Pengabdian DPRD",
+        "sebelum_jumlah": "30300000.00",
+        "sesudah_jumlah": "30300000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05",
+        "uraian": "Belanja Gaji dan Tunjangan KDH/WKDH",
+        "sebelum_jumlah": "2215627310.00",
+        "sesudah_jumlah": "2215627310.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.01",
+        "uraian": "Belanja Gaji Pokok KDH/WKDH",
+        "sebelum_jumlah": "75600000.00",
+        "sesudah_jumlah": "75600000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.01.0001",
+        "uraian": "Belanja Gaji Pokok KDH/WKDH",
+        "sebelum_jumlah": "75600000.00",
+        "sesudah_jumlah": "75600000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.02",
+        "uraian": "Belanja Tunjangan Keluarga KDH/WKDH",
+        "sebelum_jumlah": "9800000.00",
+        "sesudah_jumlah": "9800000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.02.0001",
+        "uraian": "Belanja Tunjangan Keluarga KDH/WKDH",
+        "sebelum_jumlah": "9800000.00",
+        "sesudah_jumlah": "9800000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.03",
+        "uraian": "Belanja Tunjangan Jabatan KDH/WKDH",
+        "sebelum_jumlah": "136429710.06",
+        "sesudah_jumlah": "136429710.06",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.03.0001",
+        "uraian": "Belanja Tunjangan Jabatan KDH/WKDH",
+        "sebelum_jumlah": "136429710.06",
+        "sesudah_jumlah": "136429710.06",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.04",
+        "uraian": "Belanja Tunjangan Beras KDH/WKDH",
+        "sebelum_jumlah": "7140000.00",
+        "sesudah_jumlah": "7140000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.04.0001",
+        "uraian": "Belanja Tunjangan Beras KDH/WKDH",
+        "sebelum_jumlah": "7140000.00",
+        "sesudah_jumlah": "7140000.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.1.01.05.06",
+        "uraian": "Belanja Pembulatan Gaji KDH/WKDH",
+        "sebelum_jumlah": "1600.06",
+        "sesudah_jumlah": "1600.06",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.06.0001",
+        "uraian": "Belanja Pembulatan Gaji KDH/WKDH",
+        "sebelum_jumlah": "1600.06",
+        "sesudah_jumlah": "1600.06",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.09",
+        "uraian": "Belanja Iuran Jaminan Kematian KDH/WKDH",
+        "sebelum_jumlah": "559999.80",
+        "sesudah_jumlah": "559999.80",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.05.09.0001",
+        "uraian": "Belanja Iuran Jaminan Kematian KDH/WKDH",
+        "sebelum_jumlah": "559999.80",
+        "sesudah_jumlah": "559999.80",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.06.01",
+        "uraian": "Belanja Dana Operasional Pimpinan DPRD",
+        "sebelum_jumlah": "676800000.00",
+        "sesudah_jumlah": "676800000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.06.01.0001",
+        "uraian": "Belanja Dana Operasional Pimpinan DPRD",
+        "sebelum_jumlah": "676800000.00",
+        "sesudah_jumlah": "676800000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.06.02",
+        "uraian": "Belanja Dana Operasional KDH/WKDH",
+        "sebelum_jumlah": "28800000000.00",
+        "sesudah_jumlah": "28800000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.06.02.0001",
+        "uraian": "Belanja Dana Operasional KDH/WKDH",
+        "sebelum_jumlah": "28800000000.00",
+        "sesudah_jumlah": "28800000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.99",
+        "uraian": "Belanja Pegawai BLUD",
+        "sebelum_jumlah": "164779951166.00",
+        "sesudah_jumlah": "164779951166.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.99.99",
+        "uraian": "Belanja Pegawai BLUD",
+        "sebelum_jumlah": "164779951166.00",
+        "sesudah_jumlah": "164779951166.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.01.99.99.9999",
+        "uraian": "Belanja Pegawai BLUD",
+        "sebelum_jumlah": "164779951166.00",
+        "sesudah_jumlah": "164779951166.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02",
+        "uraian": "Belanja Barang dan Jasa",
+        "sebelum_jumlah": "7568806949567.23",
+        "sesudah_jumlah": "7119445896712.31",
+        "selisih": "-449361052854.92"
+    },
+    {
+        "kode": "5.1.02.01",
+        "uraian": "Belanja Barang",
+        "sebelum_jumlah": "927386982044.59",
+        "sesudah_jumlah": "937309487895.82",
+        "selisih": "9922505851.23"
+    },
+    {
+        "kode": "5.1.02.01.01",
+        "uraian": "Belanja Barang Pakai Habis",
+        "sebelum_jumlah": "895961686655.09",
+        "sesudah_jumlah": "886637204135.60",
+        "selisih": "-9324482519.49"
+    },
+    {
+        "kode": "5.1.02.01.01.0001",
+        "uraian": "Belanja Bahan-Bahan Bangunan dan Konstruksi",
+        "sebelum_jumlah": "116452624002.76",
+        "sesudah_jumlah": "122465545169.36",
+        "selisih": "6012921166.60"
+    },
+    {
+        "kode": "5.1.02.01.01.0002",
+        "uraian": "Belanja Bahan-Bahan Kimia",
+        "sebelum_jumlah": "5453867276.52",
+        "sesudah_jumlah": "6678629776.65",
+        "selisih": "1224762500.13"
+    },
+    {
+        "kode": "5.1.02.01.01.0004",
+        "uraian": "Belanja Bahan-Bahan Bakar dan Pelumas",
+        "sebelum_jumlah": "52782430021.19",
+        "sesudah_jumlah": "51518093178.16",
+        "selisih": "-1264336843.03"
+    },
+    {
+        "kode": "5.1.02.01.01.0008",
+        "uraian": "Belanja Bahan-Bahan/Bibit Tanaman",
+        "sebelum_jumlah": "7548275385.28",
+        "sesudah_jumlah": "8665714770.94",
+        "selisih": "1117439385.66"
+    },
+    {
+        "kode": "5.1.02.01.01.0009",
+        "uraian": "Belanja Bahan-Isi Tabung Pemadam Kebakaran",
+        "sebelum_jumlah": "1124316283.50",
+        "sesudah_jumlah": "829796844.50",
+        "selisih": "-294519439.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0010",
+        "uraian": "Belanja Bahan-Isi Tabung Gas",
+        "sebelum_jumlah": "1608059616.66",
+        "sesudah_jumlah": "1587657389.66",
+        "selisih": "-20402227.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0011",
+        "uraian": "Belanja Bahan-Bahan/Bibit Ternak/Bibit Ikan",
+        "sebelum_jumlah": "2518230750.00",
+        "sesudah_jumlah": "1768730750.00",
+        "selisih": "-749500000.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0012",
+        "uraian": "Belanja Bahan-Bahan Lainnya",
+        "sebelum_jumlah": "33498173100.11",
+        "sesudah_jumlah": "35349273955.11",
+        "selisih": "1851100855.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0014",
+        "uraian": "Belanja Suku Cadang-Suku Cadang Alat Besar",
+        "sebelum_jumlah": "47565000.00",
+        "sesudah_jumlah": "47565000.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.1.02.01.01.0023",
+        "uraian": "Belanja Suku Cadang-Suku Cadang Lainnya",
+        "sebelum_jumlah": "898314518.16",
+        "sesudah_jumlah": "666337270.16",
+        "selisih": "-231977248.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0037",
+        "uraian": "Belanja Obat-Obatan-Obat",
+        "sebelum_jumlah": "44679469731.66",
+        "sesudah_jumlah": "45270130470.37",
+        "selisih": "590660738.71"
+    },
+    {
+        "kode": "5.1.02.01.01.0038",
+        "uraian": "Belanja Obat-Obatan-Obat-Obatan Lainnya",
+        "sebelum_jumlah": "1139546748.60",
+        "sesudah_jumlah": "11133249408.60",
+        "selisih": "9993702660.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0043",
+        "uraian": "Belanja Natura dan Pakan-Natura",
+        "sebelum_jumlah": "35556318160.08",
+        "sesudah_jumlah": "29534089709.18",
+        "selisih": "-6022228450.90"
+    },
+    {
+        "kode": "5.1.02.01.01.0044",
+        "uraian": "Belanja Natura dan Pakan-Pakan",
+        "sebelum_jumlah": "7260055310.01",
+        "sesudah_jumlah": "5573103310.00",
+        "selisih": "-1686952000.01"
+    },
+    {
+        "kode": "5.1.02.01.01.0052",
+        "uraian": "Belanja Makanan dan Minuman Rapat",
+        "sebelum_jumlah": "123760004319.00",
+        "sesudah_jumlah": "110460880360.54",
+        "selisih": "-13299123958.46"
+    },
+    {
+        "kode": "5.1.02.01.01.0053",
+        "uraian": "Belanja Makanan dan Minuman Jamuan Tamu",
+        "sebelum_jumlah": "26947447259.89",
+        "sesudah_jumlah": "20218275167.35",
+        "selisih": "-6729172092.54"
+    },
+    
+    {
+        "kode": "5.1.02.01.01.0054",
+        "uraian": "Belanja Penambah Daya Tahan Tubuh",
+        "sebelum_jumlah": "668223126.60",
+        "sesudah_jumlah": "509851926.60",
+        "selisih": "-158371200.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0059",
+        "uraian": "Belanja Pakaian Dinas KDH dan WKDH",
+        "sebelum_jumlah": "275500000.00",
+        "sesudah_jumlah": "118000000.00",
+        "selisih": "-157500000.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0063",
+        "uraian": "Belanja Pakaian Dinas Harian (PDH)",
+        "sebelum_jumlah": "82733800.00",
+        "sesudah_jumlah": "13095128.91",
+        "selisih": "-69638671.09"
+    },
+    {
+        "kode": "5.1.02.01.01.0064",
+        "uraian": "Belanja Pakaian Dinas Lapangan (PDL)",
+        "sebelum_jumlah": "5745292604.00",
+        "sesudah_jumlah": "4671063471.04",
+        "selisih": "-1074229132.96"
+    },
+    {
+        "kode": "5.1.02.01.01.0066",
+        "uraian": "Belanja Pakaian Dinas Upacara (PDU)",
+        "sebelum_jumlah": "173250000.00",
+        "sesudah_jumlah": "173250000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0070",
+        "uraian": "Belanja Pakaian Pelatihan Kerja",
+        "sebelum_jumlah": "42210000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-42210000.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0071",
+        "uraian": "Belanja Pakaian Kerja Laboratorium",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "1811520.00",
+        "selisih": "1811520.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0074",
+        "uraian": "Belanja Pakaian Adat Daerah",
+        "sebelum_jumlah": "41052874.00",
+        "sesudah_jumlah": "28810000.00",
+        "selisih": "-12242874.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0075",
+        "uraian": "Belanja Pakaian Batik Tradisional",
+        "sebelum_jumlah": "30000000.00",
+        "sesudah_jumlah": "207000000.00",
+        "selisih": "177000000.00"
+    },
+    {
+        "kode": "5.1.02.01.01.0076",
+        "uraian": "Belanja Pakaian Olahraga",
+        "sebelum_jumlah": "1864448000.00",
+        "sesudah_jumlah": "1147369500.00",
+        "selisih": "-717078500.00"
+    },
+    {
+        "kode": "5.1.02.01.02",
+        "uraian": "Belanja Barang Tak Habis Pakai",
+        "sebelum_jumlah": "12001582567.06",
+        "sesudah_jumlah": "34008423560.98",
+        "selisih": "22006840993.92"
+    },
+    {
+        "kode": "5.1.02.01.02.0004",
+        "uraian": "Belanja Komponen-Komponen Rambu-Rambu",
+        "sebelum_jumlah": "11993243863.00",
+        "sesudah_jumlah": "34000084856.92",
+        "selisih": "22006840993.92"
+    },
+    {
+        "kode": "5.1.02.01.02.0013",
+        "uraian": "Belanja Pipa-Pipa Lainnya",
+        "sebelum_jumlah": "8338704.06",
+        "sesudah_jumlah": "8338704.06",
+        "selisih": "0.00"
+    },
+    
+    
+    
+    {
+        "kode": "5.1.02.02",
+        "uraian": "Belanja Jasa",
+        "sebelum_jumlah": "3254575868650.09",
+        "sesudah_jumlah": "3183071468680.38",
+        "selisih": "-71504399969.71"
+    },
+    {
+        "kode": "5.1.02.02.01",
+        "uraian": "Belanja Jasa Kantor",
+        "sebelum_jumlah": "2488479168638.27",
+        "sesudah_jumlah": "2411049490791.91",
+        "selisih": "-77429677846.36"
+    },
+    {
+        "kode": "5.1.02.02.01.0006",
+        "uraian": "Honorarium Penyuluhan atau Pendampingan",
+        "sebelum_jumlah": "23776979000.00",
+        "sesudah_jumlah": "17789880000.00",
+        "selisih": "-5987099000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0007",
+        "uraian": "Honorarium Rohaniwan",
+        "sebelum_jumlah": "3620800000.00",
+        "sesudah_jumlah": "3057442626.10",
+        "selisih": "-563357373.90"
+    },
+    {
+        "kode": "5.1.02.02.01.0013",
+        "uraian": "Belanja Jasa Tenaga Pendidikan",
+        "sebelum_jumlah": "431646211174.00",
+        "sesudah_jumlah": "426369292170.00",
+        "selisih": "-5276919004.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0014",
+        "uraian": "Belanja Jasa Tenaga Kesehatan",
+        "sebelum_jumlah": "904612466.00",
+        "sesudah_jumlah": "904612466.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0015",
+        "uraian": "Belanja Jasa Tenaga Laboratorium",
+        "sebelum_jumlah": "3874735861.15",
+        "sesudah_jumlah": "4851072293.00",
+        "selisih": "976336431.85"
+    },
+    {
+        "kode": "5.1.02.02.01.0019",
+        "uraian": "Belanja Jasa Tenaga Penanganan Bencana",
+        "sebelum_jumlah": "5115004874.00",
+        "sesudah_jumlah": "2622504690.00",
+        "selisih": "-2492500184.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0020",
+        "uraian": "Belanja Jasa Tenaga Penanganan Sosial",
+        "sebelum_jumlah": "4359109608.00",
+        "sesudah_jumlah": "4339565372.00",
+        "selisih": "-19544236.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0022",
+        "uraian": "Belanja Jasa Tenaga Perhubungan",
+        "sebelum_jumlah": "3788062330.00",
+        "sesudah_jumlah": "7636515578.00",
+        "selisih": "3848453248.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0024",
+        "uraian": "Belanja Jasa Tenaga Arsip dan Perpustakaan",
+        "sebelum_jumlah": "2098003752.00",
+        "sesudah_jumlah": "2098003752.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0025",
+        "uraian": "Belanja Jasa Tenaga Kesenian dan Kebudayaan",
+        "sebelum_jumlah": "4429833646.00",
+        "sesudah_jumlah": "8212583646.00",
+        "selisih": "3782750000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0026",
+        "uraian": "Belanja Jasa Tenaga Administrasi",
+        "sebelum_jumlah": "314319487121.10",
+        "sesudah_jumlah": "316817124012.10",
+        "selisih": "2497636891.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0027",
+        "uraian": "Belanja Jasa Tenaga Operator Komputer",
+        "sebelum_jumlah": "15352528617.00",
+        "sesudah_jumlah": "15612372508.88",
+        "selisih": "259843891.88"
+    },
+    {
+        "kode": "5.1.02.02.01.0028",
+        "uraian": "Belanja Jasa Tenaga Pelayanan Umum",
+        "sebelum_jumlah": "114394666014.46",
+        "sesudah_jumlah": "116287428719.02",
+        "selisih": "1892762704.56"
+    },
+    {
+        "kode": "5.1.02.02.01.0029",
+        "uraian": "Belanja Jasa Tenaga Ahli",
+        "sebelum_jumlah": "101709635416.55",
+        "sesudah_jumlah": "76378103491.20",
+        "selisih": "-25331531925.35"
+    },
+    {
+        "kode": "5.1.02.02.01.0030",
+        "uraian": "Belanja Jasa Tenaga Kebersihan",
+        "sebelum_jumlah": "286286097218.44",
+        "sesudah_jumlah": "283241719070.61",
+        "selisih": "-3044378147.83"
+    },
+    {
+        "kode": "5.1.02.02.01.0031",
+        "uraian": "Belanja Jasa Tenaga Keamanan",
+        "sebelum_jumlah": "261310120378.76",
+        "sesudah_jumlah": "262177450982.23",
+        "selisih": "867330603.47"
+    },
+    {
+        "kode": "5.1.02.02.01.0033",
+        "uraian": "Belanja Jasa Tenaga Supir",
+        "sebelum_jumlah": "34584615893.41",
+        "sesudah_jumlah": "34390980271.88",
+        "selisih": "-193635621.53"
+    },
+    {
+        "kode": "5.1.02.02.01.0034",
+        "uraian": "Belanja Jasa Tenaga Juru Masak",
+        "sebelum_jumlah": "757612466.00",
+        "sesudah_jumlah": "757612466.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0036",
+        "uraian": "Belanja Jasa Audit/Surveillance ISO",
+        "sebelum_jumlah": "1664718480.00",
+        "sesudah_jumlah": "1683918480.00",
+        "selisih": "19200000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0037",
+        "uraian": "Belanja Jasa Juri Perlombaan/Pertandingan",
+        "sebelum_jumlah": "1066250000.00",
+        "sesudah_jumlah": "577150000.00",
+        "selisih": "-489100000.00"
+    },
+    
+    {
+        "kode": "5.1.02.02.01.0039",
+        "uraian": "Belanja Jasa Tenaga Informasi dan Teknologi",
+        "sebelum_jumlah": "3305845358.00",
+        "sesudah_jumlah": "3511873446.00",
+        "selisih": "206028088.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0042",
+        "uraian": "Belanja Jasa Pelaksanaan Transaksi Keuangan",
+        "sebelum_jumlah": "5378816410.00",
+        "sesudah_jumlah": "4391891410.00",
+        "selisih": "-986925000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0044",
+        "uraian": "Belanja Jasa Pelayanan Perpustakaan",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "10160000.00",
+        "selisih": "10160000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0045",
+        "uraian": "Belanja Jasa Pelayanan Kearsipan",
+        "sebelum_jumlah": "805250000.00",
+        "sesudah_jumlah": "712850000.00",
+        "selisih": "-92400000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0046",
+        "uraian": "Belanja Jasa Konversi Aplikasi/Sistem Informasi",
+        "sebelum_jumlah": "364000000.00",
+        "sesudah_jumlah": "150000000.00",
+        "selisih": "-214000000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0047",
+        "uraian": "Belanja Jasa Penyelenggaraan Acara",
+        "sebelum_jumlah": "17715047035.00",
+        "sesudah_jumlah": "14114851077.97",
+        "selisih": "-3600195957.03"
+    },
+    {
+        "kode": "5.1.02.02.01.0048",
+        "uraian": "Belanja Jasa Kontribusi Asosiasi",
+        "sebelum_jumlah": "304000000.00",
+        "sesudah_jumlah": "304000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0050",
+        "uraian": "Belanja Jasa Kalibrasi",
+        "sebelum_jumlah": "1105514424.00",
+        "sesudah_jumlah": "1083116704.00",
+        "selisih": "-22397720.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0051",
+        "uraian": "Belanja Jasa Pengolahan Sampah",
+        "sebelum_jumlah": "9692061164.28",
+        "sesudah_jumlah": "10093544336.21",
+        "selisih": "401483171.93"
+    },
+    {
+        "kode": "5.1.02.02.01.0053",
+        "uraian": "Belanja Jasa Pengukuran Tanah",
+        "sebelum_jumlah": "1019760000.00",
+        "sesudah_jumlah": "1020285000.00",
+        "selisih": "525000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0059",
+        "uraian": "Belanja Tagihan Telepon",
+        "sebelum_jumlah": "6579433126.72",
+        "sesudah_jumlah": "7656132952.32",
+        "selisih": "1076699825.60"
+    },
+    {
+        "kode": "5.1.02.02.01.0060",
+        "uraian": "Belanja Tagihan Air",
+        "sebelum_jumlah": "9836930235.58",
+        "sesudah_jumlah": "9468339074.58",
+        "selisih": "-368591161.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0061",
+        "uraian": "Belanja Tagihan Listrik",
+        "sebelum_jumlah": "161093001565.77",
+        "sesudah_jumlah": "152416340760.15",
+        "selisih": "-8676660805.62"
+    },
+    {
+        "kode": "5.1.02.02.01.0062",
+        "uraian": "Belanja Langganan Jurnal/Surat Kabar/Majalah",
+        "sebelum_jumlah": "7409056600.00",
+        "sesudah_jumlah": "5498903721.77",
+        "selisih": "-1910152878.23"
+    },
+    {
+        "kode": "5.1.02.02.01.0064",
+        "uraian": "Belanja Paket/Pengiriman",
+        "sebelum_jumlah": "1358355100.00",
+        "sesudah_jumlah": "1079670365.28",
+        "selisih": "-278684734.72"
+    },
+    {
+        "kode": "5.1.02.02.01.0065",
+        "uraian": "Belanja Penambahan Daya",
+        "sebelum_jumlah": "29631600.00",
+        "sesudah_jumlah": "29631600.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0066",
+        "uraian": "Belanja Registrasi/Keanggotaan",
+        "sebelum_jumlah": "184375000.00",
+        "sesudah_jumlah": "184375000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0067",
+        "uraian": "Belanja Pembayaran Pajak, Bea, dan Perizinan",
+        "sebelum_jumlah": "16898396098.00",
+        "sesudah_jumlah": "16986024702.00",
+        "selisih": "87628604.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0069",
+        "uraian": "Belanja Pengolahan Air Limbah",
+        "sebelum_jumlah": "131168800.00",
+        "sesudah_jumlah": "161459425.00",
+        "selisih": "30290625.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0073",
+        "uraian": "Belanja Medical Check Up",
+        "sebelum_jumlah": "601325000.00",
+        "sesudah_jumlah": "1529575000.00",
+        "selisih": "928250000.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0076",
+        "uraian": "Belanja Tenaga Teknis Pengelolaan Hutan",
+        "sebelum_jumlah": "58277882.00",
+        "sesudah_jumlah": "58277882.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.01.0081",
+        "uraian": "Belanja Honorarium Pengadaan Barang/Jasa",
+        "sebelum_jumlah": "1822750387.00",
+        "sesudah_jumlah": "1822750387.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.02.02",
+        "uraian": "Belanja Iuran Jaminan/Asuransi",
+        "sebelum_jumlah": "555443546055.35",
+        "sesudah_jumlah": "525728532327.37",
+        "selisih": "-29715013727.98"
+    },
+    {
+        "kode": "5.1.02.02.02.0002",
+        "uraian": "Belanja Kontribusi Jaminan Kesehatan bagi PBI",
+        "sebelum_jumlah": "461703353461.00",
+        "sesudah_jumlah": "419752919411.00",
+        "selisih": "-41950434050.00"
+    },
+    {
+        "kode": "5.1.02.02.02.0005",
+        "uraian": "Belanja Iuran Jaminan Kesehatan bagi Non ASN",
+        "sebelum_jumlah": "57347278058.22",
+        "sesudah_jumlah": "57618890099.94",
+        "selisih": "271612041.72"
+    },
+    {
+        "kode": "5.1.02.02.02.0007",
+        "uraian": "Belanja Iuran Jaminan Kematian bagi Non ASN",
+        "sebelum_jumlah": "4420842803.04",
+        "sesudah_jumlah": "4273639122.73",
+        "selisih": "-147203680.31"
+    },
+    
+    {
+        "kode": "5.1.02.02.02.0010",
+        "uraian": "Belanja Iuran Jaminan Hari Tua bagi Non ASN",
+        "sebelum_jumlah": "13832562388.43",
+        "sesudah_jumlah": "14153922685.04",
+        "selisih": "321360296.61"
+    },
+    {
+        "kode": "5.1.02.02.03",
+        "uraian": "Belanja Sewa Tanah",
+        "sebelum_jumlah": "2957985268.00",
+        "sesudah_jumlah": "3078592048.00",
+        "selisih": "120606780.00"
+    },
+    {
+        "kode": "5.1.02.02.03.0007",
+        "uraian": "Belanja Sewa Tanah Persil Lainnya",
+        "sebelum_jumlah": "1097349803.00",
+        "sesudah_jumlah": "1118372303.00",
+        "selisih": "21022500.00"
+    },
+    {
+        "kode": "5.1.02.02.04",
+        "uraian": "Belanja Sewa Peralatan dan Mesin",
+        "sebelum_jumlah": "76676800141.40",
+        "sesudah_jumlah": "71343809291.77",
+        "selisih": "-5332990849.63"
+    },
+    {
+        "kode": "5.1.02.02.04.0003",
+        "uraian": "Belanja Sewa Excavator",
+        "sebelum_jumlah": "2910000000.00",
+        "sesudah_jumlah": "7020863100.00",
+        "selisih": "4110863100.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0009",
+        "uraian": "Belanja Sewa Loader",
+        "sebelum_jumlah": "25000000.00",
+        "sesudah_jumlah": "50000000.00",
+        "selisih": "25000000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0010",
+        "uraian": "Belanja Sewa Alat Pengangkat",
+        "sebelum_jumlah": "25665000.00",
+        "sesudah_jumlah": "1665000.00",
+        "selisih": "-24000000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0022",
+        "uraian": "Belanja Sewa Electric Generating Set",
+        "sebelum_jumlah": "1559297500.00",
+        "sesudah_jumlah": "1010831423.39",
+        "selisih": "-548466076.61"
+    },
+    {
+        "kode": "5.1.02.02.04.0034",
+        "uraian": "Belanja Sewa Alat Bantu Lainnya",
+        "sebelum_jumlah": "3684047100.00",
+        "sesudah_jumlah": "4376797400.00",
+        "selisih": "692750300.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0036",
+        "uraian": "Belanja Sewa Kendaraan Bermotor Penumpang",
+        "sebelum_jumlah": "7834465630.00",
+        "sesudah_jumlah": "8941731000.00",
+        "selisih": "1107265370.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0040",
+        "uraian": "Belanja Sewa Kendaraan Bermotor Khusus",
+        "sebelum_jumlah": "39600000.00",
+        "sesudah_jumlah": "61460000.00",
+        "selisih": "21860000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0102",
+        "uraian": "Belanja Sewa Alat Ukur Lainnya",
+        "sebelum_jumlah": "451600000.00",
+        "sesudah_jumlah": "1424129799.41",
+        "selisih": "972529799.41"
+    },
+    {
+        "kode": "5.1.02.02.04.0115",
+        "uraian": "Belanja Sewa Alat Reproduksi (Penggandaan)",
+        "sebelum_jumlah": "268800000.00",
+        "sesudah_jumlah": "229800000.00",
+        "selisih": "-39000000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0117",
+        "uraian": "Belanja Sewa Alat Kantor Lainnya",
+        "sebelum_jumlah": "31500000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-31500000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0118",
+        "uraian": "Belanja Sewa Mebel",
+        "sebelum_jumlah": "12787959050.00",
+        "sesudah_jumlah": "12216218743.67",
+        "selisih": "-571740306.33"
+    },
+    {
+        "kode": "5.1.02.02.04.0121",
+        "uraian": "Belanja Sewa Alat Pendingin",
+        "sebelum_jumlah": "1051701000.00",
+        "sesudah_jumlah": "325130000.00",
+        "selisih": "-726571000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0132",
+        "uraian": "Belanja Sewa Peralatan Studio Audio",
+        "sebelum_jumlah": "11222210000.00",
+        "sesudah_jumlah": "10309464791.58",
+        "selisih": "-912745208.42"
+    },
+    {
+        "kode": "5.1.02.02.04.0133",
+        "uraian": "Belanja Sewa Peralatan Studio Video dan Film",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "121200000.00",
+        "selisih": "121200000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0137",
+        "uraian": "Belanja Sewa Alat Studio Lainnya",
+        "sebelum_jumlah": "16808400.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-16808400.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0141",
+        "uraian": "Belanja Sewa Alat Komunikasi Radio VHF",
+        "sebelum_jumlah": "177100000.00",
+        "sesudah_jumlah": "13600000.00",
+        "selisih": "-163500000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0142",
+        "uraian": "Belanja Sewa Alat Komunikasi Radio UHF",
+        "sebelum_jumlah": "6500000.00",
+        "sesudah_jumlah": "1500000.00",
+        "selisih": "-5000000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0405",
+        "uraian": "Belanja Sewa Personal Computer",
+        "sebelum_jumlah": "825000000.00",
+        "sesudah_jumlah": "251748000.00",
+        "selisih": "-573252000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0410",
+        "uraian": "Belanja Sewa Peralatan Jaringan",
+        "sebelum_jumlah": "1549800000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-1549800000.00"
+    },
+    {
+        "kode": "5.1.02.02.04.0425",
+        "uraian": "Belanja Sewa Peralatan Bantu",
+        "sebelum_jumlah": "15468356461.40",
+        "sesudah_jumlah": "8223235185.58",
+        "selisih": "-7245121275.82"
+    },
+    {
+        "kode": "5.1.02.02.04.0445",
+        "uraian": "Belanja Sewa Alat Deteksi Lainnya",
+        "sebelum_jumlah": "2786400000.00",
+        "sesudah_jumlah": "2554200000.00",
+        "selisih": "-232200000.00"
+    },
+    
+    {
+        "kode": "5.1.02.02.04.0509",
+        "uraian": "Belanja Sewa Peralatan Olahraga Lainnya",
+        "sebelum_jumlah": "165000000.00",
+        "sesudah_jumlah": "630000000.00",
+        "selisih": "465000000.00"
+    },
+    {
+        "kode": "5.1.02.02.05",
+        "uraian": "Belanja Sewa Gedung dan Bangunan",
+        "sebelum_jumlah": "20928081817.00",
+        "sesudah_jumlah": "28237728307.94",
+        "selisih": "7309646490.94"
+    },
+    {
+        "kode": "5.1.02.02.05.0001",
+        "uraian": "Belanja Sewa Bangunan Gedung Kantor",
+        "sebelum_jumlah": "12038945752.00",
+        "sesudah_jumlah": "13614013836.00",
+        "selisih": "1575068084.00"
+    },
+    {
+        "kode": "5.1.02.02.05.0002",
+        "uraian": "Belanja Sewa Bangunan Gudang",
+        "sebelum_jumlah": "95000000.00",
+        "sesudah_jumlah": "725000000.00",
+        "selisih": "630000000.00"
+    },
+    {
+        "kode": "5.1.02.02.05.0032",
+        "uraian": "Belanja Sewa Bangunan Fasilitas Umum",
+        "sebelum_jumlah": "1000950000.00",
+        "sesudah_jumlah": "301000000.00",
+        "selisih": "-699950000.00"
+    },
+    {
+        "kode": "5.1.02.02.05.0043",
+        "uraian": "Belanja Sewa Hotel",
+        "sebelum_jumlah": "522099000.00",
+        "sesudah_jumlah": "979538000.00",
+        "selisih": "457439000.00"
+    },
+    {
+        "kode": "5.1.02.02.05.0057",
+        "uraian": "Belanja Sewa Bangunan Menara Telekomunikasi",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "31636593.96",
+        "selisih": "31636593.96"
+    },
+    {
+        "kode": "5.1.02.02.07",
+        "uraian": "Belanja Sewa Aset Tetap Lainnya",
+        "sebelum_jumlah": "8427795463.24",
+        "sesudah_jumlah": "5692185680.30",
+        "selisih": "-2735609782.94"
+    },
+    {
+        "kode": "5.1.02.02.07.0013",
+        "uraian": "Belanja Sewa Audio Visual",
+        "sebelum_jumlah": "5220599500.00",
+        "sesudah_jumlah": "1930066820.00",
+        "selisih": "-3290532680.00"
+    },
+    {
+        "kode": "5.1.02.02.07.0057",
+        "uraian": "Belanja Sewa Tanaman",
+        "sebelum_jumlah": "3207195963.24",
+        "sesudah_jumlah": "3762118860.30",
+        "selisih": "554922897.06"
+    },
+    {
+        "kode": "5.1.02.02.08",
+        "uraian": "Belanja Jasa Konsultansi Konstruksi",
+        "sebelum_jumlah": "67490146967.71",
+        "sesudah_jumlah": "99043803620.65",
+        "selisih": "31553656652.94"
+    },
+    
+    {
+        "kode": "5.1.02.02.08.0018",
+        "uraian": "Belanja Jasa Konsultansi Pengawasan Arsitektur",
+        "sebelum_jumlah": "3930980364.50",
+        "sesudah_jumlah": "2647765976.95",
+        "selisih": "-1283214387.55"
+    },
+    {
+        "kode": "5.1.02.02.09",
+        "uraian": "Belanja Jasa Konsultansi Non Konstruksi",
+        "sebelum_jumlah": "5836105580.00",
+        "sesudah_jumlah": "7215741163.32",
+        "selisih": "1379635583.32"
+    },
+    
+    {
+        "kode": "5.1.02.02.11",
+        "uraian": "Belanja Beasiswa Pendidikan ASN",
+        "sebelum_jumlah": "1300000000.00",
+        "sesudah_jumlah": "3133569060.00",
+        "selisih": "1833569060.00"
+    },
+    {
+        "kode": "5.1.02.02.11.0002",
+        "uraian": "Belanja Beasiswa Tugas Belajar S2",
+        "sebelum_jumlah": "1070000000.00",
+        "sesudah_jumlah": "2914907860.00",
+        "selisih": "1844907860.00"
+    },
+    {
+        "kode": "5.1.02.02.11.0003",
+        "uraian": "Belanja Beasiswa Tugas Belajar S3",
+        "sebelum_jumlah": "230000000.00",
+        "sesudah_jumlah": "218661200.00",
+        "selisih": "-11338800.00"
+    },
+    {
+        "kode": "5.1.02.02.12.0001",
+        "uraian": "Belanja Kursus Singkat/Pelatihan",
+        "sebelum_jumlah": "26496866024.00",
+        "sesudah_jumlah": "28085077194.00",
+        "selisih": "1588211170.00"
+    },
+    {
+        "kode": "5.1.02.02.12.0004",
+        "uraian": "Belanja Diklat Kepemimpinan",
+        "sebelum_jumlah": "427748000.00",
+        "sesudah_jumlah": "355132000.00",
+        "selisih": "-72616000.00"
+    },
+    {
+        "kode": "5.1.02.02.15",
+        "uraian": "Belanja Sewa Aset Tidak Berwujud",
+        "sebelum_jumlah": "111624695.12",
+        "sesudah_jumlah": "107807195.12",
+        "selisih": "-3817500.00"
+    },
+    {
+        "kode": "5.1.02.02.15.0005",
+        "uraian": "Belanja Sewa Aset Tidak Berwujud-Software",
+        "sebelum_jumlah": "19161210.12",
+        "sesudah_jumlah": "19161210.12",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.03",
+        "uraian": "Belanja Pemeliharaan",
+        "sebelum_jumlah": "357944464185.17",
+        "sesudah_jumlah": "342039399302.06",
+        "selisih": "-15905064883.11"
+    },
+    {
+        "kode": "5.1.02.03.01",
+        "uraian": "Belanja Pemeliharaan Tanah",
+        "sebelum_jumlah": "4288638479.00",
+        "sesudah_jumlah": "5672422415.00",
+        "selisih": "1383783936.00"
+    },
+    {
+        "kode": "5.1.02.03.02",
+        "uraian": "Belanja Pemeliharaan Peralatan dan Mesin",
+        "sebelum_jumlah": "96230007868.55",
+        "sesudah_jumlah": "94997381923.51",
+        "selisih": "-1232625945.04"
+    },
+    
+    
+    {
+        "kode": "5.1.02.03.03",
+        "uraian": "Belanja Pemeliharaan Gedung dan Bangunan",
+        "sebelum_jumlah": "144172089115.56",
+        "sesudah_jumlah": "125446575682.00",
+        "selisih": "-18725513433.56"
+    },
+    
+    {
+        "kode": "5.1.02.03.04",
+        "uraian": "Belanja Pemeliharaan Jalan, Jaringan, dan Irigasi",
+        "sebelum_jumlah": "113253728722.06",
+        "sesudah_jumlah": "115923019281.55",
+        "selisih": "2669290559.49"
+    },
+    
+    {
+        "kode": "5.1.02.04",
+        "uraian": "Belanja Perjalanan Dinas",
+        "sebelum_jumlah": "762990087269.38",
+        "sesudah_jumlah": "372994242283.55",
+        "selisih": "-389995844985.83"
+    },
+    {
+        "kode": "5.1.02.04.01",
+        "uraian": "Belanja Perjalanan Dinas Dalam Negeri",
+        "sebelum_jumlah": "752635185269.38",
+        "sesudah_jumlah": "370563832283.55",
+        "selisih": "-382071352985.83"
+    },
+    {
+        "kode": "5.1.02.04.01.0001",
+        "uraian": "Belanja Perjalanan Dinas Biasa",
+        "sebelum_jumlah": "601452325468.81",
+        "sesudah_jumlah": "349683302208.32",
+        "selisih": "-251769023260.49"
+    },
+    {
+        "kode": "5.1.02.04.01.0002",
+        "uraian": "Belanja Perjalanan Dinas Tetap",
+        "sebelum_jumlah": "8600000.00",
+        "sesudah_jumlah": "6354246.14",
+        "selisih": "-2245753.86"
+    },
+    {
+        "kode": "5.1.02.04.01.0003",
+        "uraian": "Belanja Perjalanan Dinas Dalam Kota",
+        "sebelum_jumlah": "7192743480.53",
+        "sesudah_jumlah": "4522635398.18",
+        "selisih": "-2670108082.35"
+    },
+    {
+        "kode": "5.1.02.04.02",
+        "uraian": "Belanja Perjalanan Dinas Luar Negeri",
+        "sebelum_jumlah": "10354902000.00",
+        "sesudah_jumlah": "2430410000.00",
+        "selisih": "-7924492000.00"
+    },
+    {
+        "kode": "5.1.02.04.02.0001",
+        "uraian": "Belanja Perjalanan Dinas Biasa Luar Negeri",
+        "sebelum_jumlah": "10354902000.00",
+        "sesudah_jumlah": "2430410000.00",
+        "selisih": "-7924492000.00"
+    },
+    {
+        "kode": "5.1.02.05.01.0001",
+        "uraian": "Belanja Hadiah yang Bersifat Perlombaan",
+        "sebelum_jumlah": "5937820000.00",
+        "sesudah_jumlah": "3537600000.00",
+        "selisih": "-2400220000.00"
+    },
+    {
+        "kode": "5.1.02.05.01.0002",
+        "uraian": "Belanja Penghargaan atas Suatu Prestasi",
+        "sebelum_jumlah": "408949000000.00",
+        "sesudah_jumlah": "408949000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.05.01.0003",
+        "uraian": "Belanja Beasiswa",
+        "sebelum_jumlah": "15028000000.00",
+        "sesudah_jumlah": "36628000000.00",
+        "selisih": "21600000000.00"
+    },
+    {
+        "kode": "5.1.02.05.02.0002",
+        "uraian": "Belanja Jasa yang Diberikan kepada Masyarakat",
+        "sebelum_jumlah": "3966204163.00",
+        "sesudah_jumlah": "3863288167.50",
+        "selisih": "-102915995.50"
+    },
+    {
+        "kode": "5.1.02.89",
+        "uraian": "Belanja Barang dan Jasa BOSP",
+        "sebelum_jumlah": "1137326288423.00",
+        "sesudah_jumlah": "1137326288423.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.89.01",
+        "uraian": "Belanja Barang dan Jasa BOSP-BOS",
+        "sebelum_jumlah": "1137326288423.00",
+        "sesudah_jumlah": "1137326288423.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.89.01.0001",
+        "uraian": "Belanja Barang dan Jasa BOSP-BOS Reguler",
+        "sebelum_jumlah": "1137326288423.00",
+        "sesudah_jumlah": "1137326288423.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.02.99",
+        "uraian": "Belanja Barang dan Jasa BLUD",
+        "sebelum_jumlah": "687404750482.00",
+        "sesudah_jumlah": "688167239682.00",
+        "selisih": "762489200.00"
+    },
+    {
+        "kode": "5.1.02.99.99",
+        "uraian": "Belanja Barang dan Jasa BLUD",
+        "sebelum_jumlah": "687404750482.00",
+        "sesudah_jumlah": "688167239682.00",
+        "selisih": "762489200.00"
+    },
+    {
+        "kode": "5.1.02.99.99.9999",
+        "uraian": "Belanja Barang dan Jasa BLUD",
+        "sebelum_jumlah": "687404750482.00",
+        "sesudah_jumlah": "688167239682.00",
+        "selisih": "762489200.00"
+    },
+    {
+        "kode": "5.1.04",
+        "uraian": "Belanja Subsidi",
+        "sebelum_jumlah": "161341421779.00",
+        "sesudah_jumlah": "159341421779.00",
+        "selisih": "-2000000000.00"
+    },
+    {
+        "kode": "5.1.04.01",
+        "uraian": "Belanja Subsidi kepada BUMN",
+        "sebelum_jumlah": "15000000000.00",
+        "sesudah_jumlah": "13000000000.00",
+        "selisih": "-2000000000.00"
+    },
+    {
+        "kode": "5.1.04.01.01",
+        "uraian": "Belanja Subsidi kepada BUMN",
+        "sebelum_jumlah": "15000000000.00",
+        "sesudah_jumlah": "13000000000.00",
+        "selisih": "-2000000000.00"
+    },
+    {
+        "kode": "5.1.04.01.01.0001",
+        "uraian": "Belanja Subsidi kepada BUMN",
+        "sebelum_jumlah": "15000000000.00",
+        "sesudah_jumlah": "13000000000.00",
+        "selisih": "-2000000000.00"
+    },
+    {
+        "kode": "5.1.04.02",
+        "uraian": "Belanja Subsidi kepada BUMD",
+        "sebelum_jumlah": "146341421779.00",
+        "sesudah_jumlah": "146341421779.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.04.02.02",
+        "uraian": "Belanja Subsidi kepada BUMD",
+        "sebelum_jumlah": "146341421779.00",
+        "sesudah_jumlah": "146341421779.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.04.02.02.0001",
+        "uraian": "Belanja Subsidi kepada BUMD",
+        "sebelum_jumlah": "146341421779.00",
+        "sesudah_jumlah": "146341421779.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.05",
+        "uraian": "Belanja Hibah",
+        "sebelum_jumlah": "3281692265774.00",
+        "sesudah_jumlah": "2992519562775.00",
+        "selisih": "-289172702999.00"
+    },
+    
+    {
+        "kode": "5.1.05.01",
+        "uraian": "Belanja Hibah kepada Pemerintah Pusat",
+        "sebelum_jumlah": "179483350943.00",
+        "sesudah_jumlah": "177051230000.00",
+        "selisih": "-2432120943.00"
+    },
+    {
+        "kode": "5.1.05.01.01",
+        "uraian": "Belanja Hibah Uang kepada Pemerintah Pusat",
+        "sebelum_jumlah": "179483350943.00",
+        "sesudah_jumlah": "177051230000.00",
+        "selisih": "-2432120943.00"
+    },
+    {
+        "kode": "5.1.05.01.01.0001",
+        "uraian": "Belanja Hibah Uang kepada Pemerintah Pusat",
+        "sebelum_jumlah": "179483350943.00",
+        "sesudah_jumlah": "177051230000.00",
+        "selisih": "-2432120943.00"
+    },
+    {
+        "kode": "5.1.05.06",
+        "uraian": "Belanja Hibah Dana BOS",
+        "sebelum_jumlah": "1725363850000.00",
+        "sesudah_jumlah": "1725363850000.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.1.06",
+        "uraian": "Belanja Bantuan Sosial",
+        "sebelum_jumlah": "34066750000.00",
+        "sesudah_jumlah": "34066750000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.1.06.01",
+        "uraian": "Belanja Bantuan Sosial kepada Individu",
+        "sebelum_jumlah": "420000000.00",
+        "sesudah_jumlah": "420000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2",
+        "uraian": "BELANJA MODAL",
+        "sebelum_jumlah": "1769776812927.99",
+        "sesudah_jumlah": "4176567377056.92",
+        "selisih": "2406790564128.93"
+    },
+    {
+        "kode": "5.2.01",
+        "uraian": "Belanja Modal Tanah",
+        "sebelum_jumlah": "23895774005.00",
+        "sesudah_jumlah": "68942616495.00",
+        "selisih": "45046842490.00"
+    },
+    {
+        "kode": "5.2.01.01",
+        "uraian": "Belanja Modal Tanah",
+        "sebelum_jumlah": "23895774005.00",
+        "sesudah_jumlah": "68942616495.00",
+        "selisih": "45046842490.00"
+    },
+    {
+        "kode": "5.2.01.01.01",
+        "uraian": "Belanja Modal Tanah Persil",
+        "sebelum_jumlah": "23895774005.00",
+        "sesudah_jumlah": "28562576495.00",
+        "selisih": "4666802490.00"
+    },
+    {
+        "kode": "5.2.01.01.01.0007",
+        "uraian": "Belanja Modal Tanah Persil Lainnya",
+        "sebelum_jumlah": "17681585991.00",
+        "sesudah_jumlah": "11201132619.00",
+        "selisih": "-6480453372.00"
+    },
+    {
+        "kode": "5.2.01.01.02",
+        "uraian": "Belanja Modal Tanah Non Persil",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "40380040000.00",
+        "selisih": "40380040000.00"
+    },
+    {
+        "kode": "5.2.01.01.02.0002",
+        "uraian": "Belanja Modal Tanah Kering",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "40380040000.00",
+        "selisih": "40380040000.00"
+    },
+    {
+        "kode": "5.2.02",
+        "uraian": "Belanja Modal Peralatan dan Mesin",
+        "sebelum_jumlah": "813268419069.98",
+        "sesudah_jumlah": "746243967259.91",
+        "selisih": "-67024451810.07"
+    },
+    {
+        "kode": "5.2.02.01",
+        "uraian": "Belanja Modal Alat Besar",
+        "sebelum_jumlah": "3455349164.50",
+        "sesudah_jumlah": "60686865163.96",
+        "selisih": "57231515999.46"
+    },
+    {
+        "kode": "5.2.02.01.01",
+        "uraian": "Belanja Modal Alat Besar Darat",
+        "sebelum_jumlah": "2479900000.00",
+        "sesudah_jumlah": "40405299000.00",
+        "selisih": "37925399000.00"
+    },
+    {
+        "kode": "5.2.02.01.01.0003",
+        "uraian": "Belanja Modal Excavator",
+        "sebelum_jumlah": "900000000.00",
+        "sesudah_jumlah": "27497409000.00",
+        "selisih": "26597409000.00"
+    },
+    {
+        "kode": "5.2.02.01.01.0005",
+        "uraian": "Belanja Modal Hauler",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "8600000000.00",
+        "selisih": "8600000000.00"
+    },
+    {
+        "kode": "5.2.02.01.01.0007",
+        "uraian": "Belanja Modal Compacting Equipment",
+        "sebelum_jumlah": "432900000.00",
+        "sesudah_jumlah": "2672900000.00",
+        "selisih": "2240000000.00"
+    },
+    {
+        "kode": "5.2.02.01.01.0011",
+        "uraian": "Belanja Modal Mesin Proses",
+        "sebelum_jumlah": "1147000000.00",
+        "sesudah_jumlah": "626000000.00",
+        "selisih": "-521000000.00"
+    },
+    {
+        "kode": "5.2.02.01.01.0012",
+        "uraian": "Belanja Modal Alat Besar Darat Lainnya",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "1008990000.00",
+        "selisih": "1008990000.00"
+    },
+    {
+        "kode": "5.2.02.01.02",
+        "uraian": "Belanja Modal Alat Besar Apung",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "17489160000.00",
+        "selisih": "17489160000.00"
+    },
+    {
+        "kode": "5.2.02.01.02.0006",
+        "uraian": "Belanja Modal Alat Besar Apung Lainnya",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "17489160000.00",
+        "selisih": "17489160000.00"
+    },
+    {
+        "kode": "5.2.02.01.03",
+        "uraian": "Belanja Modal Alat Bantu",
+        "sebelum_jumlah": "975449164.50",
+        "sesudah_jumlah": "2792406163.96",
+        "selisih": "1816956999.46"
+    },
+    
+    {
+        "kode": "5.2.02.01.03.0004",
+        "uraian": "Belanja Modal Electric Generating Set",
+        "sebelum_jumlah": "414178260.00",
+        "sesudah_jumlah": "1857136766.46",
+        "selisih": "1442958506.46"
+    },
+    {
+        "kode": "5.2.02.01.03.0005",
+        "uraian": "Belanja Modal Pompa",
+        "sebelum_jumlah": "501987009.50",
+        "sesudah_jumlah": "402995612.50",
+        "selisih": "-98991397.00"
+    },
+    {
+        "kode": "5.2.02.01.03.0016",
+        "uraian": "Belanja Modal Alat Bantu Lainnya",
+        "sebelum_jumlah": "59283895.00",
+        "sesudah_jumlah": "532273785.00",
+        "selisih": "472989890.00"
+    },
+    {
+        "kode": "5.2.02.02",
+        "uraian": "Belanja Modal Alat Angkutan",
+        "sebelum_jumlah": "29170007818.44",
+        "sesudah_jumlah": "77424330321.16",
+        "selisih": "48254322502.72"
+    },
+    {
+        "kode": "5.2.02.02.01",
+        "uraian": "Belanja Modal Alat Angkutan Darat Bermotor",
+        "sebelum_jumlah": "29015694518.28",
+        "sesudah_jumlah": "77186767021.00",
+        "selisih": "48171072502.72"
+    },
+    {
+        "kode": "5.2.02.02.01.0002",
+        "uraian": "Belanja Modal Kendaraan Bermotor Penumpang",
+        "sebelum_jumlah": "10671628380.00",
+        "sesudah_jumlah": "7626021000.00",
+        "selisih": "-3045607380.00"
+    },
+    {
+        "kode": "5.2.02.02.01.0004",
+        "uraian": "Belanja Modal Kendaraan Bermotor Beroda Dua",
+        "sebelum_jumlah": "2458562920.00",
+        "sesudah_jumlah": "183141519.00",
+        "selisih": "-2275421401.00"
+    },
+    {
+        "kode": "5.2.02.02.01.0005",
+        "uraian": "Belanja Modal Kendaraan Bermotor Beroda Tiga",
+        "sebelum_jumlah": "96600000.00",
+        "sesudah_jumlah": "289800000.00",
+        "selisih": "193200000.00"
+    },
+    {
+        "kode": "5.2.02.02.01.0006",
+        "uraian": "Belanja Modal Kendaraan Bermotor Khusus",
+        "sebelum_jumlah": "5561536218.28",
+        "sesudah_jumlah": "61303372502.00",
+        "selisih": "55741836283.72"
+    },
+    {
+        "kode": "5.2.02.02.02",
+        "uraian": "Belanja Modal Alat Angkutan Darat Tak Bermotor",
+        "sebelum_jumlah": "4313300.16",
+        "sesudah_jumlah": "4313300.16",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.02.03",
+        "uraian": "Belanja Modal Alat Angkutan Apung Bermotor",
+        "sebelum_jumlah": "150000000.00",
+        "sesudah_jumlah": "233250000.00",
+        "selisih": "83250000.00"
+    },
+    {
+        "kode": "5.2.02.03",
+        "uraian": "Belanja Modal Alat Bengkel dan Alat Ukur",
+        "sebelum_jumlah": "4537346738.50",
+        "sesudah_jumlah": "4413294688.50",
+        "selisih": "-124052050.00"
+    },
+    {
+        "kode": "5.2.02.03.01",
+        "uraian": "Belanja Modal Alat Bengkel Bermesin",
+        "sebelum_jumlah": "1138528950.00",
+        "sesudah_jumlah": "1141250500.00",
+        "selisih": "2721550.00"
+    },
+    {
+        "kode": "5.2.02.03.01.0004",
+        "uraian": "Belanja Modal Perkakas Bengkel Service",
+        "sebelum_jumlah": "11800800.00",
+        "sesudah_jumlah": "9300000.00",
+        "selisih": "-2500800.00"
+    },
+    {
+        "kode": "5.2.02.03.01.0006",
+        "uraian": "Belanja Modal Perkakas Bengkel Kayu",
+        "sebelum_jumlah": "9600000.00",
+        "sesudah_jumlah": "16600000.00",
+        "selisih": "7000000.00"
+    },
+    {
+        "kode": "5.2.02.03.01.0010",
+        "uraian": "Belanja Modal Alat Bengkel Bermesin Lainnya",
+        "sebelum_jumlah": "1117128150.00",
+        "sesudah_jumlah": "1115350500.00",
+        "selisih": "-1777650.00"
+    },
+    {
+        "kode": "5.2.02.03.02",
+        "uraian": "Belanja Modal Alat Bengkel Tak Bermesin",
+        "sebelum_jumlah": "20484660.00",
+        "sesudah_jumlah": "47660760.00",
+        "selisih": "27176100.00"
+    },
+    {
+        "kode": "5.2.02.03.02.0007",
+        "uraian": "Belanja Modal Perkakas Bengkel Kerja",
+        "sebelum_jumlah": "4179000.00",
+        "sesudah_jumlah": "4179000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.03.02.0009",
+        "uraian": "Belanja Modal Peralatan Tukang Kayu",
+        "sebelum_jumlah": "16305660.00",
+        "sesudah_jumlah": "43481760.00",
+        "selisih": "27176100.00"
+    },
+    {
+        "kode": "5.2.02.03.03",
+        "uraian": "Belanja Modal Alat Ukur",
+        "sebelum_jumlah": "3378333128.50",
+        "sesudah_jumlah": "3224383428.50",
+        "selisih": "-153949700.00"
+    },
+    {
+        "kode": "5.2.02.03.03.0001",
+        "uraian": "Belanja Modal Alat Ukur Universal",
+        "sebelum_jumlah": "1306433630.00",
+        "sesudah_jumlah": "1306433630.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.03.03.0005",
+        "uraian": "Belanja Modal Alat Kalibrasi",
+        "sebelum_jumlah": "1519141875.00",
+        "sesudah_jumlah": "1519141875.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.03.03.0010",
+        "uraian": "Belanja Modal Alat Timbangan/Biara",
+        "sebelum_jumlah": "394431123.50",
+        "sesudah_jumlah": "326151423.50",
+        "selisih": "-68279700.00"
+    },
+    {
+        "kode": "5.2.02.03.03.0021",
+        "uraian": "Belanja Modal Alat Ukur Lainnya",
+        "sebelum_jumlah": "158326500.00",
+        "sesudah_jumlah": "72656500.00",
+        "selisih": "-85670000.00"
+    },
+    {
+        "kode": "5.2.02.04",
+        "uraian": "Belanja Modal Alat Pertanian",
+        "sebelum_jumlah": "2979659611.60",
+        "sesudah_jumlah": "2548940031.60",
+        "selisih": "-430719580.00"
+    },
+    {
+        "kode": "5.2.02.04.01",
+        "uraian": "Belanja Modal Alat Pengolahan",
+        "sebelum_jumlah": "2979659611.60",
+        "sesudah_jumlah": "2548940031.60",
+        "selisih": "-430719580.00"
+    },
+    {
+        "kode": "5.2.02.04.01.0005",
+        "uraian": "Belanja Modal Alat Laboratorium Pertanian",
+        "sebelum_jumlah": "353615052.00",
+        "sesudah_jumlah": "353615052.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.04.01.0008",
+        "uraian": "Belanja Modal Alat Produksi Perikanan",
+        "sebelum_jumlah": "686577059.60",
+        "sesudah_jumlah": "395857479.60",
+        "selisih": "-290719580.00"
+    },
+    {
+        "kode": "5.2.02.04.01.0009",
+        "uraian": "Belanja Modal Alat-Alat Peternakan",
+        "sebelum_jumlah": "969467500.00",
+        "sesudah_jumlah": "969467500.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.2.02.05",
+        "uraian": "Belanja Modal Alat Kantor dan Rumah Tangga",
+        "sebelum_jumlah": "83079981377.78",
+        "sesudah_jumlah": "51592489194.10",
+        "selisih": "-31487492183.68"
+    },
+    {
+        "kode": "5.2.02.05.01",
+        "uraian": "Belanja Modal Alat Kantor",
+        "sebelum_jumlah": "22942543551.65",
+        "sesudah_jumlah": "8457310989.28",
+        "selisih": "-14485232562.37"
+    },
+    {
+        "kode": "5.2.02.05.01.0002",
+        "uraian": "Belanja Modal Mesin Hitung/Mesin Jumlah",
+        "sebelum_jumlah": "4129200.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-4129200.00"
+    },
+    {
+        "kode": "5.2.02.05.01.0005",
+        "uraian": "Belanja Modal Alat Kantor Lainnya",
+        "sebelum_jumlah": "21342216327.92",
+        "sesudah_jumlah": "7624170822.81",
+        "selisih": "-13718045505.11"
+    },
+    {
+        "kode": "5.2.02.05.02",
+        "uraian": "Belanja Modal Alat Rumah Tangga",
+        "sebelum_jumlah": "59595493604.13",
+        "sesudah_jumlah": "42792588893.82",
+        "selisih": "-16802904710.31"
+    },
+    {
+        "kode": "5.2.02.05.02.0001",
+        "uraian": "Belanja Modal Mebel",
+        "sebelum_jumlah": "47650368804.54",
+        "sesudah_jumlah": "31966563598.61",
+        "selisih": "-15683805205.93"
+    },
+    {
+        "kode": "5.2.02.05.02.0003",
+        "uraian": "Belanja Modal Alat Pembersih",
+        "sebelum_jumlah": "384866967.50",
+        "sesudah_jumlah": "1913544140.66",
+        "selisih": "1528677173.16"
+    },
+    {
+        "kode": "5.2.02.05.02.0004",
+        "uraian": "Belanja Modal Alat Pendingin",
+        "sebelum_jumlah": "7515230821.25",
+        "sesudah_jumlah": "5282126164.41",
+        "selisih": "-2233104656.84"
+    },
+    {
+        "kode": "5.2.02.05.02.0005",
+        "uraian": "Belanja Modal Alat Dapur",
+        "sebelum_jumlah": "20184690.00",
+        "sesudah_jumlah": "32379000.00",
+        "selisih": "12194310.00"
+    },
+    {
+        "kode": "5.2.02.05.02.0007",
+        "uraian": "Belanja Modal Alat Pemadam Kebakaran",
+        "sebelum_jumlah": "58954818.00",
+        "sesudah_jumlah": "17750727.84",
+        "selisih": "-41204090.16"
+    },
+    {
+        "kode": "5.2.02.05.03.0002",
+        "uraian": "Belanja Modal Meja Rapat Pejabat",
+        "sebelum_jumlah": "152706750.00",
+        "sesudah_jumlah": "25971750.00",
+        "selisih": "-126735000.00"
+    },
+    {
+        "kode": "5.2.02.05.03.0003",
+        "uraian": "Belanja Modal Kursi Kerja Pejabat",
+        "sebelum_jumlah": "46634400.00",
+        "sesudah_jumlah": "46634400.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.05.03.0007",
+        "uraian": "Belanja Modal Lemari dan Arsip Pejabat",
+        "sebelum_jumlah": "342603072.00",
+        "sesudah_jumlah": "269983161.00",
+        "selisih": "-72619911.00"
+    },
+    {
+        "kode": "5.2.02.06.01",
+        "uraian": "Belanja Modal Alat Studio",
+        "sebelum_jumlah": "8516969179.66",
+        "sesudah_jumlah": "7229101178.89",
+        "selisih": "-1287868000.77"
+    },
+    {
+        "kode": "5.2.02.06.01.0001",
+        "uraian": "Belanja Modal Peralatan Studio Audio",
+        "sebelum_jumlah": "1695218510.70",
+        "sesudah_jumlah": "3942457310.20",
+        "selisih": "2247238799.50"
+    },
+    {
+        "kode": "5.2.02.06.01.0002",
+        "uraian": "Belanja Modal Peralatan Studio Video dan Film",
+        "sebelum_jumlah": "6702750668.96",
+        "sesudah_jumlah": "3239643868.69",
+        "selisih": "-3463106800.27"
+    },
+    {
+        "kode": "5.2.02.06.01.0006",
+        "uraian": "Belanja Modal Alat Studio Lainnya",
+        "sebelum_jumlah": "119000000.00",
+        "sesudah_jumlah": "47000000.00",
+        "selisih": "-72000000.00"
+    },
+    {
+        "kode": "5.2.02.06.02",
+        "uraian": "Belanja Modal Alat Komunikasi",
+        "sebelum_jumlah": "900687133.89",
+        "sesudah_jumlah": "1395269695.34",
+        "selisih": "494582561.45"
+    },
+    {
+        "kode": "5.2.02.06.02.0001",
+        "uraian": "Belanja Modal Alat Komunikasi Telephone",
+        "sebelum_jumlah": "676235587.89",
+        "sesudah_jumlah": "810724106.34",
+        "selisih": "134488518.45"
+    },
+    {
+        "kode": "5.2.02.06.02.0011",
+        "uraian": "Belanja Modal Alat Komunikasi Lainnya",
+        "sebelum_jumlah": "224451546.00",
+        "sesudah_jumlah": "584545589.00",
+        "selisih": "360094043.00"
+    },
+    {
+        "kode": "5.2.02.07",
+        "uraian": "Belanja Modal Alat Kedokteran dan Kesehatan",
+        "sebelum_jumlah": "86175860319.00",
+        "sesudah_jumlah": "55981282149.00",
+        "selisih": "-30194578170.00"
+    },
+    {
+        "kode": "5.2.02.07.01",
+        "uraian": "Belanja Modal Alat Kedokteran",
+        "sebelum_jumlah": "86175860319.00",
+        "sesudah_jumlah": "55981282149.00",
+        "selisih": "-30194578170.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0001",
+        "uraian": "Belanja Modal Alat Kedokteran Umum",
+        "sebelum_jumlah": "18662054830.00",
+        "sesudah_jumlah": "8091317114.00",
+        "selisih": "-10570737716.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0004",
+        "uraian": "Belanja Modal Alat Kedokteran Bedah",
+        "sebelum_jumlah": "33085789806.00",
+        "sesudah_jumlah": "9510264725.00",
+        "selisih": "-23575525081.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0006",
+        "uraian": "Belanja Modal Alat Kedokteran THT",
+        "sebelum_jumlah": "13756696000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-13756696000.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0007",
+        "uraian": "Belanja Modal Alat Kedokteran Mata",
+        "sebelum_jumlah": "4215110493.00",
+        "sesudah_jumlah": "5890610493.00",
+        "selisih": "1675500000.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0010",
+        "uraian": "Belanja Modal Alat Kedokteran Anak",
+        "sebelum_jumlah": "742468247.00",
+        "sesudah_jumlah": "2172107705.00",
+        "selisih": "1429639458.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0014",
+        "uraian": "Belanja Modal Alat Kedokteran Jantung",
+        "sebelum_jumlah": "2427103439.00",
+        "sesudah_jumlah": "2953015334.00",
+        "selisih": "525911895.00"
+    },
+    
+    {
+        "kode": "5.2.02.07.01.0015",
+        "uraian": "Belanja Modal Alat Kedokteran Radiodiagnostic",
+        "sebelum_jumlah": "375616434.00",
+        "sesudah_jumlah": "14878550000.00",
+        "selisih": "14502933566.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0020",
+        "uraian": "Belanja Modal Alat Kedokteran Kulit dan Kelamin",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "45686268.00",
+        "selisih": "45686268.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0022",
+        "uraian": "Belanja Modal Alat Kedokteran Jiwa",
+        "sebelum_jumlah": "2966682500.00",
+        "sesudah_jumlah": "2966682500.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0026",
+        "uraian": "Belanja Modal Alat Kedokteran Bedah Jantung",
+        "sebelum_jumlah": "128465475.00",
+        "sesudah_jumlah": "128465475.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0028",
+        "uraian": "Belanja Modal Alat Kedokteran Anestesi",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "605544000.00",
+        "selisih": "605544000.00"
+    },
+    {
+        "kode": "5.2.02.07.01.0029",
+        "uraian": "Belanja Modal Alat Kedokteran Lainnya",
+        "sebelum_jumlah": "859374200.00",
+        "sesudah_jumlah": "690874200.00",
+        "selisih": "-168500000.00"
+    },
+    {
+        "kode": "5.2.02.08",
+        "uraian": "Belanja Modal Alat Laboratorium",
+        "sebelum_jumlah": "78676765866.74",
+        "sesudah_jumlah": "80100398606.58",
+        "selisih": "1423632739.84"
+    },
+    {
+        "kode": "5.2.02.08.01",
+        "uraian": "Belanja Modal Unit Alat Laboratorium",
+        "sebelum_jumlah": "7361668345.22",
+        "sesudah_jumlah": "7863841807.22",
+        "selisih": "502173462.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0005",
+        "uraian": "Belanja Modal Alat Laboratorium Batuan/Geologi",
+        "sebelum_jumlah": "110000000.00",
+        "sesudah_jumlah": "110000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0011",
+        "uraian": "Belanja Modal Alat Laboratorium Umum",
+        "sebelum_jumlah": "793139655.00",
+        "sesudah_jumlah": "751139655.00",
+        "selisih": "-42000000.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0012",
+        "uraian": "Belanja Modal Alat Laboratorium Mikrobiologi",
+        "sebelum_jumlah": "908736000.00",
+        "sesudah_jumlah": "908736000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0013",
+        "uraian": "Belanja Modal Alat Laboratorium Kimia",
+        "sebelum_jumlah": "1214942938.52",
+        "sesudah_jumlah": "1996760900.52",
+        "selisih": "781817962.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0016",
+        "uraian": "Belanja Modal Alat Laboratorium Hematologi",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0056",
+        "uraian": "Belanja Modal Alat Laboratorium Lain",
+        "sebelum_jumlah": "140000000.00",
+        "sesudah_jumlah": "385240000.00",
+        "selisih": "245240000.00"
+    },
+    {
+        "kode": "5.2.02.08.01.0064",
+        "uraian": "Belanja Modal Unit Alat Laboratorium Lainnya",
+        "sebelum_jumlah": "3163931248.80",
+        "sesudah_jumlah": "2685043748.80",
+        "selisih": "-478887500.00"
+    },
+    {
+        "kode": "5.2.02.08.03",
+        "uraian": "Belanja Modal Alat Peraga Praktek Sekolah",
+        "sebelum_jumlah": "68967892800.00",
+        "sesudah_jumlah": "70402892800.00",
+        "selisih": "1435000000.00"
+    },
+    {
+        "kode": "5.2.02.08.03.0014",
+        "uraian": "Belanja Modal Alat Peraga Kejuruan",
+        "sebelum_jumlah": "67865000000.00",
+        "sesudah_jumlah": "69300000000.00",
+        "selisih": "1435000000.00"
+    },
+    {
+        "kode": "5.2.02.08.08.0006",
+        "uraian": "Belanja Modal Peralatan Umum",
+        "sebelum_jumlah": "577809970.00",
+        "sesudah_jumlah": "435546000.00",
+        "selisih": "-142263970.00"
+    },
+    {
+        "kode": "5.2.02.10",
+        "uraian": "Belanja Modal Komputer",
+        "sebelum_jumlah": "193423610042.45",
+        "sesudah_jumlah": "44220493962.53",
+        "selisih": "-149203116079.92"
+    },
+    {
+        "kode": "5.2.02.10.01",
+        "uraian": "Belanja Modal Komputer Unit",
+        "sebelum_jumlah": "36903516252.95",
+        "sesudah_jumlah": "20188504278.45",
+        "selisih": "-16715011974.50"
+    },
+    
+    {
+        "kode": "5.2.02.10.01.0001",
+        "uraian": "Belanja Modal Komputer Jaringan",
+        "sebelum_jumlah": "16000000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-16000000.00"
+    },
+    {
+        "kode": "5.2.02.10.01.0002",
+        "uraian": "Belanja Modal Personal Computer",
+        "sebelum_jumlah": "30351595144.50",
+        "sesudah_jumlah": "16818055342.00",
+        "selisih": "-13533539802.50"
+    },
+    {
+        "kode": "5.2.02.10.01.0003",
+        "uraian": "Belanja Modal Komputer Unit Lainnya",
+        "sebelum_jumlah": "6535921108.45",
+        "sesudah_jumlah": "3370448936.45",
+        "selisih": "-3165472172.00"
+    },
+    {
+        "kode": "5.2.02.10.02",
+        "uraian": "Belanja Modal Peralatan Komputer",
+        "sebelum_jumlah": "156520093789.50",
+        "sesudah_jumlah": "24031989684.08",
+        "selisih": "-132488104105.42"
+    },
+    {
+        "kode": "5.2.02.10.02.0001",
+        "uraian": "Belanja Modal Peralatan Mainframe",
+        "sebelum_jumlah": "11033171579.00",
+        "sesudah_jumlah": "11033171579.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.10.02.0003",
+        "uraian": "Belanja Modal Peralatan Personal Computer",
+        "sebelum_jumlah": "1420622629.96",
+        "sesudah_jumlah": "679928638.00",
+        "selisih": "-740693991.96"
+    },
+    {
+        "kode": "5.2.02.10.02.0004",
+        "uraian": "Belanja Modal Peralatan Jaringan",
+        "sebelum_jumlah": "8571060938.62",
+        "sesudah_jumlah": "7584526043.08",
+        "selisih": "-986534895.54"
+    },
+    {
+        "kode": "5.2.02.10.02.0005",
+        "uraian": "Belanja Modal Peralatan Komputer Lainnya",
+        "sebelum_jumlah": "135495238641.92",
+        "sesudah_jumlah": "4734363424.00",
+        "selisih": "-130760875217.92"
+    },
+    {
+        "kode": "5.2.02.11",
+        "uraian": "Belanja Modal Alat Eksplorasi",
+        "sebelum_jumlah": "35700000.00",
+        "sesudah_jumlah": "35700000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.11.02",
+        "uraian": "Belanja Modal Alat Eksplorasi Geofisika",
+        "sebelum_jumlah": "35700000.00",
+        "sesudah_jumlah": "35700000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.11.02.0002",
+        "uraian": "Belanja Modal Elektronik/Electric",
+        "sebelum_jumlah": "35700000.00",
+        "sesudah_jumlah": "35700000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.13.01",
+        "uraian": "Belanja Modal Sumur",
+        "sebelum_jumlah": "2712220000.00",
+        "sesudah_jumlah": "252220000.00",
+        "selisih": "-2460000000.00"
+    },
+    {
+        "kode": "5.2.02.13.01.0002",
+        "uraian": "Belanja Modal Sumur Pemboran",
+        "sebelum_jumlah": "2532220000.00",
+        "sesudah_jumlah": "252220000.00",
+        "selisih": "-2280000000.00"
+    },
+    {
+        "kode": "5.2.02.13.01.0003",
+        "uraian": "Belanja Modal Sumur Lainnya",
+        "sebelum_jumlah": "180000000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-180000000.00"
+    },
+    {
+        "kode": "5.2.02.15",
+        "uraian": "Belanja Modal Alat Keselamatan Kerja",
+        "sebelum_jumlah": "65168932.50",
+        "sesudah_jumlah": "10629101368.89",
+        "selisih": "10563932436.39"
+    },
+    {
+        "kode": "5.2.02.15.01",
+        "uraian": "Belanja Modal Alat Deteksi",
+        "sebelum_jumlah": "65168932.50",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-65168932.50"
+    },
+    {
+        "kode": "5.2.02.15.01.0003",
+        "uraian": "Belanja Modal Alat Deteksi Lainnya",
+        "sebelum_jumlah": "65168932.50",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-65168932.50"
+    },
+    {
+        "kode": "5.2.02.15.04",
+        "uraian": "Belanja Modal Alat Kerja Penerbangan",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "10629101368.89",
+        "selisih": "10629101368.89"
+    },
+    {
+        "kode": "5.2.02.16",
+        "uraian": "Belanja Modal Alat Peraga",
+        "sebelum_jumlah": "1584194716.00",
+        "sesudah_jumlah": "1584194716.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.16.01.0001",
+        "uraian": "Belanja Modal Alat Peraga Pelatihan",
+        "sebelum_jumlah": "1584194716.00",
+        "sesudah_jumlah": "1584194716.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.18",
+        "uraian": "Belanja Modal Rambu-Rambu",
+        "sebelum_jumlah": "36772806881.92",
+        "sesudah_jumlah": "67762331996.36",
+        "selisih": "30989525114.44"
+    },
+    {
+        "kode": "5.2.02.18.01",
+        "uraian": "Belanja Modal Rambu-Rambu Lalu Lintas Darat",
+        "sebelum_jumlah": "36609806881.92",
+        "sesudah_jumlah": "67599331996.36",
+        "selisih": "30989525114.44"
+    },
+    {
+        "kode": "5.2.02.18.03",
+        "uraian": "Belanja Modal Rambu-Rambu Lalu Lintas Laut",
+        "sebelum_jumlah": "163000000.00",
+        "sesudah_jumlah": "163000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.19",
+        "uraian": "Belanja Modal Peralatan Olahraga",
+        "sebelum_jumlah": "235820650.00",
+        "sesudah_jumlah": "204172750.00",
+        "selisih": "-31647900.00"
+    },
+    {
+        "kode": "5.2.02.19.01",
+        "uraian": "Belanja Modal Peralatan Olahraga",
+        "sebelum_jumlah": "235820650.00",
+        "sesudah_jumlah": "204172750.00",
+        "selisih": "-31647900.00"
+    },
+    {
+        "kode": "5.2.02.19.01.0006",
+        "uraian": "Belanja Modal Peralatan Olahraga Lainnya",
+        "sebelum_jumlah": "235820650.00",
+        "sesudah_jumlah": "204172750.00",
+        "selisih": "-31647900.00"
+    },
+    {
+        "kode": "5.2.02.89",
+        "uraian": "Belanja Modal Peralatan dan Mesin BOSP",
+        "sebelum_jumlah": "243824718844.00",
+        "sesudah_jumlah": "243824718844.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.02.89.01",
+        "uraian": "Belanja Modal Peralatan dan Mesin BOSP-BOS",
+        "sebelum_jumlah": "243824718844.00",
+        "sesudah_jumlah": "243824718844.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "5.2.02.99",
+        "uraian": "Belanja Modal Peralatan dan Mesin BLUD",
+        "sebelum_jumlah": "37121551793.00",
+        "sesudah_jumlah": "36359062593.00",
+        "selisih": "-762489200.00"
+    },
+    {
+        "kode": "5.2.02.99.99",
+        "uraian": "Belanja Modal Peralatan dan Mesin BLUD",
+        "sebelum_jumlah": "37121551793.00",
+        "sesudah_jumlah": "36359062593.00",
+        "selisih": "-762489200.00"
+    },
+    {
+        "kode": "5.2.02.99.99.9999",
+        "uraian": "Belanja Modal Peralatan dan Mesin BLUD",
+        "sebelum_jumlah": "37121551793.00",
+        "sesudah_jumlah": "36359062593.00",
+        "selisih": "-762489200.00"
+    },
+    {
+        "kode": "5.2.03",
+        "uraian": "Belanja Modal Gedung dan Bangunan",
+        "sebelum_jumlah": "299723784378.01",
+        "sesudah_jumlah": "1242628560300.77",
+        "selisih": "942904775922.76"
+    },
+    {
+        "kode": "5.2.03.01",
+        "uraian": "Belanja Modal Bangunan Gedung",
+        "sebelum_jumlah": "222239807749.81",
+        "sesudah_jumlah": "1166466207304.57",
+        "selisih": "944226399554.76"
+    },
+    {
+        "kode": "5.2.03.01.01",
+        "uraian": "Belanja Modal Bangunan Gedung Tempat Kerja",
+        "sebelum_jumlah": "218911491243.62",
+        "sesudah_jumlah": "1163259361237.38",
+        "selisih": "944347869993.76"
+    },
+    {
+        "kode": "5.2.03.01.01.0001",
+        "uraian": "Belanja Modal Bangunan Gedung Kantor",
+        "sebelum_jumlah": "171548066828.10",
+        "sesudah_jumlah": "585400076922.46",
+        "selisih": "413852010094.36"
+    },
+    {
+        "kode": "5.2.03.01.01.0002",
+        "uraian": "Belanja Modal Bangunan Gudang",
+        "sebelum_jumlah": "640000000.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-640000000.00"
+    },
+    {
+        "kode": "5.2.03.01.01.0004",
+        "uraian": "Belanja Modal Bangunan Gedung Instalasi",
+        "sebelum_jumlah": "156792753.63",
+        "sesudah_jumlah": "156792753.63",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.03.01.01.0005",
+        "uraian": "Belanja Modal Bangunan Gedung Laboratorium",
+        "sebelum_jumlah": "962621232.00",
+        "sesudah_jumlah": "962621232.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.03.01.01.0006",
+        "uraian": "Belanja Modal Bangunan Kesehatan",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "45977678486.70",
+        "selisih": "45977678486.70"
+    },
+    {
+        "kode": "5.2.03.01.01.0014",
+        "uraian": "Belanja Modal Bangunan Gedung Garasi/Pool",
+        "sebelum_jumlah": "164061000.00",
+        "sesudah_jumlah": "164061000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.03.01.01.0025",
+        "uraian": "Belanja Modal Bangunan Terbuka",
+        "sebelum_jumlah": "635850000.00",
+        "sesudah_jumlah": "660783816.00",
+        "selisih": "24933816.00"
+    },
+    {
+        "kode": "5.2.03.01.01.0029",
+        "uraian": "Belanja Modal Bangunan Peternakan/Perikanan",
+        "sebelum_jumlah": "15368588137.00",
+        "sesudah_jumlah": "141643737.00",
+        "selisih": "-15226944400.00"
+    },
+    {
+        "kode": "5.2.03.01.01.0032",
+        "uraian": "Belanja Modal Bangunan Fasilitas Umum",
+        "sebelum_jumlah": "2719270831.62",
+        "sesudah_jumlah": "505179753430.93",
+        "selisih": "502460482599.31"
+    },
+    {
+        "kode": "5.2.03.01.01.0033",
+        "uraian": "Belanja Modal Bangunan Parkir",
+        "sebelum_jumlah": "1897991600.00",
+        "sesudah_jumlah": "186867586.38",
+        "selisih": "-1711124013.62"
+    },
+    {
+        "kode": "5.2.03.01.01.0036",
+        "uraian": "Belanja Modal Taman",
+        "sebelum_jumlah": "133579350.27",
+        "sesudah_jumlah": "109241198.62",
+        "selisih": "-24338151.65"
+    },
+    {
+        "kode": "5.2.03.01.02.0002",
+        "uraian": "Belanja Modal Rumah Negara Golongan II",
+        "sebelum_jumlah": "1707177495.52",
+        "sesudah_jumlah": "1585646754.52",
+        "selisih": "-121530741.00"
+    },
+    {
+        "kode": "5.2.03.01.02.0003",
+        "uraian": "Belanja Modal Rumah Negara Golongan III",
+        "sebelum_jumlah": "1191470352.00",
+        "sesudah_jumlah": "1126249334.00",
+        "selisih": "-65221018.00"
+    },
+    {
+        "kode": "5.2.03.01.02.0005",
+        "uraian": "Belanja Modal Asrama",
+        "sebelum_jumlah": "429668658.67",
+        "sesudah_jumlah": "494949978.67",
+        "selisih": "65281320.00"
+    },
+    {
+        "kode": "5.2.03.04",
+        "uraian": "Belanja Modal Tugu Titik Kontrol/Pasti",
+        "sebelum_jumlah": "11645387310.20",
+        "sesudah_jumlah": "10323763678.20",
+        "selisih": "-1321623632.00"
+    },
+    {
+        "kode": "5.2.03.04.01",
+        "uraian": "Belanja Modal Tugu/Tanda Batas",
+        "sebelum_jumlah": "11645387310.20",
+        "sesudah_jumlah": "10323763678.20",
+        "selisih": "-1321623632.00"
+    },
+    {
+        "kode": "5.2.03.04.01.0004",
+        "uraian": "Belanja Modal Pagar",
+        "sebelum_jumlah": "10492635832.53",
+        "sesudah_jumlah": "9331986200.53",
+        "selisih": "-1160649632.00"
+    },
+    {
+        "kode": "5.2.03.04.01.0005",
+        "uraian": "Belanja Modal Tugu/Tanda Batas Lainnya",
+        "sebelum_jumlah": "1152751477.67",
+        "sesudah_jumlah": "991777477.67",
+        "selisih": "-160974000.00"
+    },
+    {
+        "kode": "5.2.03.99",
+        "uraian": "Belanja Modal Gedung dan Bangunan BLUD",
+        "sebelum_jumlah": "65838589318.00",
+        "sesudah_jumlah": "65838589318.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.03.99.99",
+        "uraian": "Belanja Modal Gedung dan Bangunan BLUD",
+        "sebelum_jumlah": "65838589318.00",
+        "sesudah_jumlah": "65838589318.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.03.99.99.9999",
+        "uraian": "Belanja Modal Gedung dan Bangunan BLUD",
+        "sebelum_jumlah": "65838589318.00",
+        "sesudah_jumlah": "65838589318.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.04",
+        "uraian": "Belanja Modal Jalan, Jaringan, dan Irigasi",
+        "sebelum_jumlah": "480722788307.00",
+        "sesudah_jumlah": "1964902600631.64",
+        "selisih": "1484179812324.64"
+    },
+    
+    {
+        "kode": "5.2.04.01",
+        "uraian": "Belanja Modal Jalan dan Jembatan",
+        "sebelum_jumlah": "426350473506.48",
+        "sesudah_jumlah": "1825247329472.32",
+        "selisih": "1398896855965.84"
+    },
+    {
+        "kode": "5.2.04.01.01",
+        "uraian": "Belanja Modal Jalan",
+        "sebelum_jumlah": "330337598641.11",
+        "sesudah_jumlah": "1631897092516.36",
+        "selisih": "1301559493875.25"
+    },
+    {
+        "kode": "5.2.04.01.01.0002",
+        "uraian": "Belanja Modal Jalan Provinsi",
+        "sebelum_jumlah": "324760636249.22",
+        "sesudah_jumlah": "1595828767648.81",
+        "selisih": "1271068131399.59"
+    },
+    {
+        "kode": "5.2.04.01.01.0009",
+        "uraian": "Belanja Modal Jalan Khusus",
+        "sebelum_jumlah": "199980000.00",
+        "sesudah_jumlah": "30913594208.66",
+        "selisih": "30713614208.66"
+    },
+    {
+        "kode": "5.2.04.01.01.0010",
+        "uraian": "Belanja Modal Jalan Lainnya",
+        "sebelum_jumlah": "5376982391.89",
+        "sesudah_jumlah": "5154730658.89",
+        "selisih": "-222251733.00"
+    },
+    {
+        "kode": "5.2.04.01.02",
+        "uraian": "Belanja Modal Jembatan",
+        "sebelum_jumlah": "96012874865.37",
+        "sesudah_jumlah": "193350236955.96",
+        "selisih": "97337362090.59"
+    },
+    {
+        "kode": "5.2.04.01.02.0002",
+        "uraian": "Belanja Modal Jembatan pada Jalan Provinsi",
+        "sebelum_jumlah": "95812953865.37",
+        "sesudah_jumlah": "193150315955.96",
+        "selisih": "97337362090.59"
+    },
+    {
+        "kode": "5.2.04.01.02.0013",
+        "uraian": "Belanja Modal Jembatan Lainnya",
+        "sebelum_jumlah": "199921000.00",
+        "sesudah_jumlah": "199921000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.04.02",
+        "uraian": "Belanja Modal Bangunan Air",
+        "sebelum_jumlah": "47282402295.52",
+        "sesudah_jumlah": "117591110088.32",
+        "selisih": "70308707792.80"
+    },
+    {
+        "kode": "5.2.04.02.01",
+        "uraian": "Belanja Modal Bangunan Air Irigasi",
+        "sebelum_jumlah": "45894928739.00",
+        "sesudah_jumlah": "112552736531.80",
+        "selisih": "66657807792.80"
+    },
+    {
+        "kode": "5.2.04.02.01.0008",
+        "uraian": "Belanja Modal Bangunan Air Irigasi Lainnya",
+        "sebelum_jumlah": "45894928739.00",
+        "sesudah_jumlah": "112552736531.80",
+        "selisih": "66657807792.80"
+    },
+    {
+        "kode": "5.2.04.02.05.0007",
+        "uraian": "Belanja Modal Bangunan Sawah Irigasi Air Tanah",
+        "sebelum_jumlah": "1160000000.00",
+        "sesudah_jumlah": "400000000.00",
+        "selisih": "-760000000.00"
+    },
+    {
+        "kode": "5.2.04.02.06",
+        "uraian": "Belanja Modal Bangunan Air Bersih/Air Baku",
+        "sebelum_jumlah": "227473556.52",
+        "sesudah_jumlah": "4638373556.52",
+        "selisih": "4410900000.00"
+    },
+    {
+        "kode": "5.2.04.03",
+        "uraian": "Belanja Modal Instalasi",
+        "sebelum_jumlah": "4100748671.00",
+        "sesudah_jumlah": "19564161071.00",
+        "selisih": "15463412400.00"
+    },
+    {
+        "kode": "5.2.04.03.01",
+        "uraian": "Belanja Modal Instalasi Air Bersih/Air Baku",
+        "sebelum_jumlah": "88572490.00",
+        "sesudah_jumlah": "30297490.00",
+        "selisih": "-58275000.00"
+    },
+    {
+        "kode": "5.2.04.03.01.0004",
+        "uraian": "Belanja Modal Instalasi Air Tanah Dangkal",
+        "sebelum_jumlah": "30297490.00",
+        "sesudah_jumlah": "30297490.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.04.03.03",
+        "uraian": "Belanja Modal Instalasi Pengolahan Sampah",
+        "sebelum_jumlah": "24150000.00",
+        "sesudah_jumlah": "15178815000.00",
+        "selisih": "15154665000.00"
+    },
+    {
+        "kode": "5.2.04.03.03.0003",
+        "uraian": "Belanja Modal Bangunan Penampung Sampah",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "5077880000.00",
+        "selisih": "5077880000.00"
+    },
+    {
+        "kode": "5.2.04.03.05",
+        "uraian": "Belanja Modal Instalasi Pembangkit Listrik",
+        "sebelum_jumlah": "3755526181.00",
+        "sesudah_jumlah": "4224548581.00",
+        "selisih": "469022400.00"
+    },
+    {
+        "kode": "5.2.04.03.09",
+        "uraian": "Belanja Modal Instalasi Pengaman",
+        "sebelum_jumlah": "28500000.00",
+        "sesudah_jumlah": "28500000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.04.04",
+        "uraian": "Belanja Modal Jaringan",
+        "sebelum_jumlah": "489163834.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-489163834.00"
+    },
+    {
+        "kode": "5.2.04.04.02",
+        "uraian": "Belanja Modal Jaringan Listrik",
+        "sebelum_jumlah": "489163834.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-489163834.00"
+    },
+    {
+        "kode": "5.2.04.04.02.0003",
+        "uraian": "Belanja Modal Jaringan Listrik Lainnya",
+        "sebelum_jumlah": "489163834.00",
+        "sesudah_jumlah": "0.00",
+        "selisih": "-489163834.00"
+    },
+    
+    {
+        "kode": "5.2.04.99",
+        "uraian": "Belanja Modal Jalan, Jaringan, dan Irigasi BLUD",
+        "sebelum_jumlah": "2500000000.00",
+        "sesudah_jumlah": "2500000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.04.99.99",
+        "uraian": "Belanja Modal Jalan, Jaringan, dan Irigasi BLUD",
+        "sebelum_jumlah": "2500000000.00",
+        "sesudah_jumlah": "2500000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.04.99.99.9999",
+        "uraian": "Belanja Modal Jalan, Jaringan, dan Irigasi BLUD",
+        "sebelum_jumlah": "2500000000.00",
+        "sesudah_jumlah": "2500000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05",
+        "uraian": "Belanja Modal Aset Tetap Lainnya",
+        "sebelum_jumlah": "151840243168.00",
+        "sesudah_jumlah": "153701428369.60",
+        "selisih": "1861185201.60"
+    },
+    {
+        "kode": "5.2.05.01",
+        "uraian": "Belanja Modal Bahan Perpustakaan",
+        "sebelum_jumlah": "416828435.00",
+        "sesudah_jumlah": "1453213636.60",
+        "selisih": "1036385201.60"
+    },
+    {
+        "kode": "5.2.05.01.01",
+        "uraian": "Belanja Modal Bahan Perpustakaan Tercetak",
+        "sebelum_jumlah": "214589000.00",
+        "sesudah_jumlah": "427667500.00",
+        "selisih": "213078500.00"
+    },
+    {
+        "kode": "5.2.05.01.01.0001",
+        "uraian": "Belanja Modal Buku Umum",
+        "sebelum_jumlah": "152180300.00",
+        "sesudah_jumlah": "343658800.00",
+        "selisih": "191478500.00"
+    },
+    {
+        "kode": "5.2.05.01.01.0003",
+        "uraian": "Belanja Modal Buku Agama",
+        "sebelum_jumlah": "19812300.00",
+        "sesudah_jumlah": "19002300.00",
+        "selisih": "-810000.00"
+    },
+    {
+        "kode": "5.2.05.01.01.0004",
+        "uraian": "Belanja Modal Buku Ilmu Sosial",
+        "sebelum_jumlah": "21839400.00",
+        "sesudah_jumlah": "44249400.00",
+        "selisih": "22410000.00"
+    },
+    {
+        "kode": "5.2.05.01.01.0005",
+        "uraian": "Belanja Modal Buku Ilmu Bahasa",
+        "sebelum_jumlah": "20757000.00",
+        "sesudah_jumlah": "20757000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.01.02.0001",
+        "uraian": "Belanja Modal Audio Visual",
+        "sebelum_jumlah": "202239435.00",
+        "sesudah_jumlah": "1025546136.60",
+        "selisih": "823306701.60"
+    },
+    {
+        "kode": "5.2.05.02.01",
+        "uraian": "Belanja Modal Barang Bercorak Kesenian",
+        "sebelum_jumlah": "25200000.00",
+        "sesudah_jumlah": "850000000.00",
+        "selisih": "824800000.00"
+    },
+    {
+        "kode": "5.2.05.02.01.0001",
+        "uraian": "Belanja Modal Alat Musik",
+        "sebelum_jumlah": "25200000.00",
+        "sesudah_jumlah": "250000000.00",
+        "selisih": "224800000.00"
+    },
+    {
+        "kode": "5.2.05.02.01.0002",
+        "uraian": "Belanja Modal Lukisan",
+        "sebelum_jumlah": "0.00",
+        "sesudah_jumlah": "600000000.00",
+        "selisih": "600000000.00"
+    },
+    {
+        "kode": "5.2.05.07",
+        "uraian": "Belanja Modal Aset Tetap Dalam Renovasi",
+        "sebelum_jumlah": "1100000000.00",
+        "sesudah_jumlah": "1100000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.07.01",
+        "uraian": "Belanja Modal Aset Tetap Dalam Renovasi",
+        "sebelum_jumlah": "1100000000.00",
+        "sesudah_jumlah": "1100000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.07.01.0001",
+        "uraian": "Belanja Modal Aset Tetap Dalam Renovasi",
+        "sebelum_jumlah": "1100000000.00",
+        "sesudah_jumlah": "1100000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.89",
+        "uraian": "Belanja Modal Aset Tetap Lainnya BOSP",
+        "sebelum_jumlah": "150098214733.00",
+        "sesudah_jumlah": "150098214733.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.89.01",
+        "uraian": "Belanja Modal Aset Tetap Lainnya BOSP-BOS",
+        "sebelum_jumlah": "150098214733.00",
+        "sesudah_jumlah": "150098214733.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.99",
+        "uraian": "Belanja Modal Aset Tetap Lainnya BLUD",
+        "sebelum_jumlah": "200000000.00",
+        "sesudah_jumlah": "200000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.99.99",
+        "uraian": "Belanja Modal Aset Tetap Lainnya BLUD",
+        "sebelum_jumlah": "200000000.00",
+        "sesudah_jumlah": "200000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.05.99.99.9999",
+        "uraian": "Belanja Modal Aset Tetap Lainnya BLUD",
+        "sebelum_jumlah": "200000000.00",
+        "sesudah_jumlah": "200000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.2.06",
+        "uraian": "Belanja Modal Aset Lainnya",
+        "sebelum_jumlah": "325804000.00",
+        "sesudah_jumlah": "148204000.00",
+        "selisih": "-177600000.00"
+    },
+    {
+        "kode": "5.2.06.01",
+        "uraian": "Belanja Modal Aset Lainnya-Aset Tidak Berwujud",
+        "sebelum_jumlah": "325804000.00",
+        "sesudah_jumlah": "148204000.00",
+        "selisih": "-177600000.00"
+    },
+    {
+        "kode": "5.2.06.01.01",
+        "uraian": "Belanja Modal Aset Tidak Berwujud",
+        "sebelum_jumlah": "325804000.00",
+        "sesudah_jumlah": "148204000.00",
+        "selisih": "-177600000.00"
+    },
+    {
+        "kode": "5.3",
+        "uraian": "BELANJA TIDAK TERDUGA",
+        "sebelum_jumlah": "1154221541130.00",
+        "sesudah_jumlah": "633750186858.00",
+        "selisih": "-520471354272.00"
+    },
+    {
+        "kode": "5.3.01",
+        "uraian": "Belanja Tidak Terduga",
+        "sebelum_jumlah": "1154221541130.00",
+        "sesudah_jumlah": "633750186858.00",
+        "selisih": "-520471354272.00"
+    },
+    {
+        "kode": "5.3.01.01",
+        "uraian": "Belanja Tidak Terduga",
+        "sebelum_jumlah": "1154221541130.00",
+        "sesudah_jumlah": "633750186858.00",
+        "selisih": "-520471354272.00"
+    },
+    {
+        "kode": "5.3.01.01.01",
+        "uraian": "Belanja Tidak Terduga",
+        "sebelum_jumlah": "1154221541130.00",
+        "sesudah_jumlah": "633750186858.00",
+        "selisih": "-520471354272.00"
+    },
+    {
+        "kode": "5.3.01.01.01.0001",
+        "uraian": "Belanja Tidak Terduga",
+        "sebelum_jumlah": "1154221541130.00",
+        "sesudah_jumlah": "633750186858.00",
+        "selisih": "-520471354272.00"
+    },
+    {
+        "kode": "5.4",
+        "uraian": "BELANJA TRANSFER",
+        "sebelum_jumlah": "7991495966348.00",
+        "sesudah_jumlah": "6676986865544.00",
+        "selisih": "-1314509100804.00"
+    },
+    
+    {
+        "kode": "5.4.01",
+        "uraian": "Belanja Bagi Hasil",
+        "sebelum_jumlah": "5451031805167.00",
+        "sesudah_jumlah": "5451031805167.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "5.4.02",
+        "uraian": "Belanja Bantuan Keuangan",
+        "sebelum_jumlah": "2540464161181.00",
+        "sesudah_jumlah": "1225955060377.00",
+        "selisih": "-1314509100804.00"
+    },
+    {
+        "kode": "6.1",
+        "uraian": "PENERIMAAN PEMBIAYAAN",
+        "sebelum_jumlah": "693387923336.00",
+        "sesudah_jumlah": "693387923336.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.1.01.02",
+        "uraian": "Pelampauan Penerimaan Pendapatan Transfer",
+        "sebelum_jumlah": "209284401500.00",
+        "sesudah_jumlah": "209284401500.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.1.01.05",
+        "uraian": "Penghematan Belanja",
+        "sebelum_jumlah": "312578713836.00",
+        "sesudah_jumlah": "312578713836.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.1.01.05.01",
+        "uraian": "Penghematan Belanja-Belanja Operasi",
+        "sebelum_jumlah": "312578713836.00",
+        "sesudah_jumlah": "312578713836.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.1.01.05.01.0007",
+        "uraian": "Penghematan Belanja Barang dan Jasa-Barang",
+        "sebelum_jumlah": "312578713836.00",
+        "sesudah_jumlah": "312578713836.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.1.01.08",
+        "uraian": "Sisa Belanja Lainnya",
+        "sebelum_jumlah": "112000000000.00",
+        "sesudah_jumlah": "112000000000.00",
+        "selisih": "0.00"
+    },
+    
+    {
+        "kode": "6.1.01.08.01",
+        "uraian": "Sisa Lebih Perhitungan Anggaran BLUD",
+        "sebelum_jumlah": "112000000000.00",
+        "sesudah_jumlah": "112000000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.1.01.08.01.0001",
+        "uraian": "Sisa Lebih Perhitungan Anggaran BLUD",
+        "sebelum_jumlah": "112000000000.00",
+        "sesudah_jumlah": "112000000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.2.02",
+        "uraian": "Penyertaan Modal Daerah",
+        "sebelum_jumlah": "50000000000.00",
+        "sesudah_jumlah": "50000000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.2.02.02.01",
+        "uraian": "Penyertaan Modal Daerah pada BUMD",
+        "sebelum_jumlah": "50000000000.00",
+        "sesudah_jumlah": "50000000000.00",
+        "selisih": "0.00"
+    },
+    {
+        "kode": "6.2.02.02.01.0001",
+        "uraian": "Penyertaan Modal Daerah pada BUMD",
+        "sebelum_jumlah": "50000000000.00",
+        "sesudah_jumlah": "50000000000.00",
+        "selisih": "0.00"
     }
+]
   },
   "message": "Data for Jawa Barat is currently not available. Please check back later."
 }
