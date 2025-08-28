@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anggaran Kabupaten Kuningan</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Anggaran Kabupaten Kuningan - Transparansi anggaran untuk kesejahteraan masyarakat Kuningan.">
+    <meta name="keywords" content="anggaran, transparansi, Kuningan, rakyat, sejahtera, keuangan daerah, pemerintah daerah, kabupaten">
+    <meta name="author" content="Koswara">
+    <meta property="og:title" content="Anggaran Kabupaten Kuningan">
+    <meta property="og:description" content="Transparansi anggaran untuk kesejahteraan masyarakat Kuningan.">
+    <meta property="og:image" content="logo.png">
+    <meta property="og:url" content="https://yourwebsite.com/kuningan.html"> <!-- Replace with actual URL -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Anggaran Kabupaten Kuningan">
+    <meta name="twitter:description" content="Transparansi anggaran untuk kesejahteraan masyarakat Kuningan.">
+    <meta name="twitter:image" content="logo.png">
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col">
+    <!-- Navbar -->
+    <nav class="bg-white shadow-md p-4">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <a href="index.html" class="flex items-center">
+                <img src="logo.png" alt="Kawal Anggaran Logo" class="h-8 mr-2">
+                <span class="text-2xl font-bold text-gray-800">Kawal Anggaran</span>
+            </a>
+            <div class="hidden md:flex space-x-4">
+                <a href="index.html" class="text-gray-600 hover:text-blue-600">Home</a>
+                <a href="kuningan.html" class="text-blue-600 font-semibold flex items-center">
+                    Anggaran Kuningan
+                </a>
+                <a href="jabar.html" class="text-gray-600 hover:text-blue-600">Anggaran Jabar</a>
+            </div>
+            <div class="md:hidden">
+                <button id="menu-button" class="text-gray-600 hover:text-blue-600 focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                </button>
+            </div>
+        </div>
+    </nav>
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="hidden md:hidden bg-white shadow-md">
+        <a href="index.html" class="block px-4 py-2 text-gray-600 hover:bg-gray-100">Home</a>
+        <a href="kuningan.html" class="block px-4 py-2 text-blue-600 font-semibold hover:bg-gray-100">Anggaran Kuningan</a>
+        <a href="jabar.html" class="block px-4 py-2 text-gray-600 hover:bg-gray-100">Anggaran Jabar</a>
+    </div>
+
+    <div class="max-w-6xl mx-auto bg-white p-4 sm:p-6 rounded-lg shadow-xl my-8 flex-grow">
+        <h1 class="text-2xl sm:text-3xl font-bold text-center mb-4 sm:mb-6 text-gray-800">Anggaran Kabupaten Kuningan</h1>
+        <div id="peraturan-info" class="mb-6 sm:mb-8 bg-blue-50 p-3 sm:p-4 rounded-lg border border-blue-200 text-sm sm:text-base shadow-inner">
+            <h2 class="text-lg sm:text-xl font-semibold text-blue-800 mb-2">Informasi Peraturan Bupati</h2>
+            <p><strong class="text-blue-700">Judul:</strong> <span id="peraturan-judul"></span></p>
+            <p><strong class="text-blue-700">Nomor:</strong> <span id="peraturan-nomor"></span></p>
+            <p><strong class="text-blue-700">Tanggal Penetapan:</strong> <span id="peraturan-tanggal"></span></p>
+            <p><strong class="text-blue-700">Bupati:</strong> <span id="peraturan-bupati"></span></p>
+            <p><strong class="text-blue-700">Sekretaris Daerah:</strong> <span id="peraturan-sekda"></span></p>
+        </div>
+
+        <div class="mb-6 sm:mb-8">
+            <h2 class="text-xl sm:text-2xl font-semibold text-gray-700 mb-3 sm:mb-4">Ringkasan Anggaran</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6 mb-6 sm:mb-8">
+                <div class="bg-green-100 p-3 sm:p-4 rounded-lg shadow-md border border-green-300 transform hover:scale-105 transition duration-300">
+                    <h3 class="text-base sm:text-lg font-medium text-green-800 mb-1 sm:mb-2">Total Pendapatan Daerah</h3>
+                    <p id="total-pendapatan" class="text-xl sm:text-2xl font-bold text-green-700"></p>
+                </div>
+                <div class="bg-red-100 p-3 sm:p-4 rounded-lg shadow-md border border-red-300 transform hover:scale-105 transition duration-300">
+                    <h3 class="text-base sm:text-lg font-medium text-red-800 mb-1 sm:mb-2">Total Belanja Daerah</h3>
+                    <p id="total-belanja" class="text-xl sm:text-2xl font-bold text-red-700"></p>
+                </div>
+                <div class="bg-yellow-100 p-3 sm:p-4 rounded-lg shadow-md border border-yellow-300 transform hover:scale-105 transition duration-300">
+                    <h3 class="text-base sm:text-lg font-medium text-yellow-800 mb-1 sm:mb-2">Pembiayaan Neto</h3>
+                    <p id="pembiayaan-neto" class="text-xl sm:text-2xl font-bold text-yellow-700"></p>
+                </div>
+            </div>
+
+            <h3 class="text-lg sm:text-xl font-semibold text-gray-700 mb-2 sm:mb-3">Detail Pendapatan</h3>
+            <div class="overflow-x-auto mb-4 sm:mb-6 shadow-md rounded-lg">
+                <table class="min-w-full bg-white border border-gray-300 rounded-lg">
+                    <thead>
+                        <tr class="bg-gray-200 text-gray-700 uppercase text-xs sm:text-sm leading-normal">
+                            <th class="py-3 px-6 text-left">Kategori</th>
+                            <th class="py-3 px-6 text-right">Jumlah</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-gray-700 text-sm" id="pendapatan-table-body">
+                        <!-- Pendapatan data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="text-lg sm:text-xl font-semibold text-gray-700 mb-2 sm:mb-3">Detail Belanja</h3>
+            <div class="overflow-x-auto mb-4 sm:mb-6 shadow-md rounded-lg">
+                <table class="min-w-full bg-white border border-gray-300 rounded-lg">
+                    <thead>
+                        <tr class="bg-gray-200 text-gray-700 uppercase text-xs sm:text-sm leading-normal">
+                            <th class="py-3 px-6 text-left">Kategori</th>
+                            <th class="py-3 px-6 text-right">Jumlah</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-gray-700 text-sm" id="belanja-table-body">
+                        <!-- Belanja data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="text-lg sm:text-xl font-semibold text-gray-700 mb-2 sm:mb-3">Detail Pembiayaan</h3>
+            <div class="overflow-x-auto shadow-md rounded-lg">
+                <table class="min-w-full bg-white border border-gray-300 rounded-lg">
+                    <thead>
+                        <tr class="bg-gray-200 text-gray-700 uppercase text-xs sm:text-sm leading-normal">
+                            <th class="py-3 px-6 text-left">Kategori</th>
+                            <th class="py-3 px-6 text-right">Jumlah</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-gray-700 text-sm" id="pembiayaan-table-body">
+                        <!-- Pembiayaan data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('kuningan.json')
+                .then(response => response.json())
+                .then(data => {
+                    const anggaranData = data.peraturan_bupati;
+                    const ringkasanAnggaran = anggaranData.ringkasan_anggaran;
+
+                    // Format currency
+                    const formatCurrency = (amount) => {
+                        if (amount === null || amount === undefined) {
+                            return '-';
+                        }
+                        return new Intl.NumberFormat('id-ID', {
+                            style: 'currency',
+                            currency: 'IDR',
+                            minimumFractionDigits: 0,
+                            maximumFractionDigits: 0
+                        }).format(amount);
+                    };
+
+                    // Peraturan Info
+                    document.getElementById('peraturan-judul').textContent = anggaranData.judul;
+                    document.getElementById('peraturan-nomor').textContent = anggaranData.nomor;
+                    document.getElementById('peraturan-tanggal').textContent = anggaranData.tanggal_penetapan;
+                    document.getElementById('peraturan-bupati').textContent = anggaranData.bupati;
+                    document.getElementById('peraturan-sekda').textContent = anggaranData.sekretaris_daerah;
+
+                    // Ringkasan Anggaran
+                    document.getElementById('total-pendapatan').textContent = formatCurrency(ringkasanAnggaran.pendapatan.total_pendapatan_daerah);
+                    document.getElementById('total-belanja').textContent = formatCurrency(ringkasanAnggaran.belanja.total_belanja_daerah);
+                    document.getElementById('pembiayaan-neto').textContent = formatCurrency(ringkasanAnggaran.pembiayaan.pembiayaan_neto);
+
+                    // Populate Pendapatan Table
+                    const pendapatanTableBody = document.getElementById('pendapatan-table-body');
+                    const addRow = (tableBody, category, amount, isSub = false) => {
+                        if (amount === null) return;
+                        const row = document.createElement('tr');
+                        row.className = `border-b border-gray-200 hover:bg-gray-100 ${isSub ? 'bg-gray-50' : ''}`;
+                        row.innerHTML = `
+                            <td class="py-3 px-6 text-left ${isSub ? 'pl-12' : ''}">${category}</td>
+                            <td class="py-3 px-6 text-right">${formatCurrency(amount)}</td>
+                        `;
+                        tableBody.appendChild(row);
+                    };
+
+                    // Pendapatan
+                    addRow(pendapatanTableBody, 'Pendapatan Asli Daerah', ringkasanAnggaran.pendapatan.detail_pendapatan.pendapatan_asli_daerah.jumlah);
+                    for (const subCat in ringkasanAnggaran.pendapatan.detail_pendapatan.pendapatan_asli_daerah.sub_kategori) {
+                        addRow(pendapatanTableBody, `- ${subCat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`, ringkasanAnggaran.pendapatan.detail_pendapatan.pendapatan_asli_daerah.sub_kategori[subCat], true);
+                    }
+                    addRow(pendapatanTableBody, 'Pendapatan Transfer', ringkasanAnggaran.pendapatan.detail_pendapatan.pendapatan_transfer.jumlah);
+                    for (const subCat in ringkasanAnggaran.pendapatan.detail_pendapatan.pendapatan_transfer.sub_kategori) {
+                        addRow(pendapatanTableBody, `- ${subCat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`, ringkasanAnggaran.pendapatan.detail_pendapatan.pendapatan_transfer.sub_kategori[subCat], true);
+                    }
+                    if (ringkasanAnggaran.pendapatan.detail_pendapatan.lain_lain_pendapatan_daerah_yang_sah !== null) {
+                        addRow(pendapatanTableBody, 'Lain-lain Pendapatan Daerah yang Sah', ringkasanAnggaran.pendapatan.detail_pendapatan.lain_lain_pendapatan_daerah_yang_sah);
+                    }
+                    
+                    // Belanja
+                    const belanjaTableBody = document.getElementById('belanja-table-body');
+                    addRow(belanjaTableBody, 'Belanja Operasional', ringkasanAnggaran.belanja.detail_belanja.belanja_operasional.jumlah);
+                    for (const subCat in ringkasanAnggaran.belanja.detail_belanja.belanja_operasional.sub_kategori) {
+                        addRow(belanjaTableBody, `- ${subCat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`, ringkasanAnggaran.belanja.detail_belanja.belanja_operasional.sub_kategori[subCat], true);
+                    }
+                    addRow(belanjaTableBody, 'Belanja Modal', ringkasanAnggaran.belanja.detail_belanja.belanja_modal.jumlah);
+                    for (const subCat in ringkasanAnggaran.belanja.detail_belanja.belanja_modal.sub_kategori) {
+                        addRow(belanjaTableBody, `- ${subCat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`, ringkasanAnggaran.belanja.detail_belanja.belanja_modal.sub_kategori[subCat], true);
+                    }
+                    addRow(belanjaTableBody, 'Belanja Tidak Terduga', ringkasanAnggaran.belanja.detail_belanja.belanja_tidak_terduga);
+                    if (ringkasanAnggaran.belanja.detail_belanja.belanja_transfer !== null) {
+                        addRow(belanjaTableBody, 'Belanja Transfer', ringkasanAnggaran.belanja.detail_belanja.belanja_transfer);
+                    }
+
+                    // Pembiayaan
+                    const pembiayaanTableBody = document.getElementById('pembiayaan-table-body');
+                    addRow(pembiayaanTableBody, 'Penerimaan Pembiayaan', ringkasanAnggaran.pembiayaan.penerimaan_pembiayaan.jumlah);
+                    for (const subCat in ringkasanAnggaran.pembiayaan.penerimaan_pembiayaan.sub_kategori) {
+                        addRow(pembiayaanTableBody, `- ${subCat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`, ringkasanAnggaran.pembiayaan.penerimaan_pembiayaan.sub_kategori[subCat], true);
+                    }
+                    addRow(pembiayaanTableBody, 'Pengeluaran Pembiayaan', ringkasanAnggaran.pembiayaan.pengeluaran_pembiayaan.jumlah);
+                    for (const subCat in ringkasanAnggaran.pembiayaan.pengeluaran_pembiayaan.sub_kategori) {
+                        addRow(pembiayaanTableBody, `- ${subCat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`, ringkasanAnggaran.pembiayaan.pengeluaran_pembiayaan.sub_kategori[subCat], true);
+                    }
+                    addRow(pembiayaanTableBody, 'Surplus/Defisit', ringkasanAnggaran.pembiayaan.surplus_defisit);
+                    addRow(pembiayaanTableBody, 'Pembiayaan Neto', ringkasanAnggaran.pembiayaan.pembiayaan_neto);
+
+                })
+                .catch(error => console.error('Error fetching or parsing data:', error));
+        });
+    </script>
+    <footer class="mt-10 py-6 bg-gray-800 text-white text-center text-sm rounded-t-lg">
+        <p class="flex items-center justify-center">
+            Developed by Koswara with 
+            <svg class="inline-block h-5 w-5 text-red-500 fill-current mx-2" viewBox="0 0 24 24">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+            </svg> 
+            <span class="inline-block align-middle mr-1">Indonesia</span>
+            <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAyNCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjE4IiBmaWxsPSJ3aGl0ZSIvPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iOSIgZmlsbD0iI0VEMjkwMCIvPgo8L3N2Zz4K" alt="Indonesia Flag" class="inline-block h-4 w-6 align-middle">
+        </p>
+    </footer>
+    <script>
+        document.getElementById('menu-button').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+    </script>
+</body>
+</html>

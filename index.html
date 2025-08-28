@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kawal Anggaran Rakyat Sejahtera</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Kawal Anggaran Rakyat Sejahtera - Transparansi anggaran untuk kesejahteraan masyarakat Kuningan.">
+    <meta name="keywords" content="anggaran, transparansi, Kuningan, rakyat, sejahtera, keuangan daerah, pemerintah daerah">
+    <meta name="author" content="Koswara">
+    <meta property="og:title" content="Kawal Anggaran Rakyat Sejahtera">
+    <meta property="og:description" content="Transparansi anggaran untuk kesejahteraan masyarakat Kuningan.">
+    <meta property="og:image" content="logo.png">
+    <meta property="og:url" content="https://yourwebsite.com/index.html"> <!-- Replace with actual URL -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Kawal Anggaran Rakyat Sejahtera">
+    <meta name="twitter:description" content="Transparansi anggaran untuk kesejahteraan masyarakat Kuningan.">
+    <meta name="twitter:image" content="logo.png">
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col">
+    <!-- Navbar -->
+    <nav class="bg-white shadow-md p-4">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <a href="index.html" class="flex items-center">
+                <img src="logo.png" alt="Kawal Anggaran Logo" class="h-8 mr-2">
+                <span class="text-2xl font-bold text-gray-800">Kawal Anggaran</span>
+            </a>
+            <div class="hidden md:flex space-x-4">
+                <a href="index.html" class="text-gray-600 hover:text-blue-600">Home</a>
+                <a href="kuningan.html" class="text-gray-600 hover:text-blue-600">Anggaran Kuningan</a>
+                <a href="jabar.html" class="text-gray-600 hover:text-blue-600">Anggaran Jabar</a>
+            </div>
+            <div class="md:hidden">
+                <button id="menu-button" class="text-gray-600 hover:text-blue-600 focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                </button>
+            </div>
+        </div>
+    </nav>
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="hidden md:hidden bg-white shadow-md">
+        <a href="index.html" class="block px-4 py-2 text-gray-600 hover:bg-gray-100">Home</a>
+        <a href="kuningan.html" class="block px-4 py-2 text-gray-600 hover:bg-gray-100">Anggaran Kuningan</a>
+        <a href="jabar.html" class="block px-4 py-2 text-gray-600 hover:bg-gray-100">Anggaran Jabar</a>
+    </div>
+
+    <!-- Hero Section -->
+    <header class="bg-blue-600 text-white py-20 text-center flex-grow flex items-center justify-center">
+        <div class="max-w-4xl mx-auto px-4">
+            <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight mb-4">Kawal Anggaran Rakyat Sejahtera</h1>
+            <p class="text-lg sm:text-xl mb-8">Transparansi anggaran untuk kesejahteraan masyarakat Kuningan dan Jawa Barat.</p>
+            <div class="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
+                <a href="kuningan.html" class="inline-block bg-white text-blue-600 font-bold py-3 px-8 rounded-full text-lg transition duration-300 ease-in-out transform hover:scale-105 hover:bg-gray-100 flex items-center justify-center">
+                    Lihat Anggaran Kuningan
+                    <svg class="ml-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                </a>
+                <a href="jabar.html" class="inline-block bg-blue-800 text-white font-bold py-3 px-8 rounded-full text-lg transition duration-300 ease-in-out transform hover:scale-105 hover:bg-blue-700 flex items-center justify-center">
+                    Lihat Anggaran Jabar
+                    <svg class="ml-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content (empty for landing page) -->
+    <main class="flex-grow"></main>
+
+    <!-- Footer from kuningan.html -->
+    <footer class="mt-10 py-6 bg-gray-800 text-white text-center text-sm rounded-b-lg">
+        <p class="flex items-center justify-center">
+            Developed by Koswara with 
+            <svg class="inline-block h-5 w-5 text-red-500 fill-current mx-2" viewBox="0 0 24 24">
+                <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+            </svg> 
+            <span class="inline-block align-middle mr-1">Indonesia</span>
+            <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAyNCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjE4IiBmaWxsPSJ3aGl0ZSIvPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iOSIgZmlsbD0iI0VEMjkwMCIvPgo8L3N2Zz4K" alt="Indonesia Flag" class="inline-block h-4 w-6 align-middle">
+        </p>
+    </footer>
+    <script>
+        document.getElementById('menu-button').addEventListener('click', function() {
+            document.getElementById('mobile-menu').classList.toggle('hidden');
+        });
+    </script>
+</body>
+</html>

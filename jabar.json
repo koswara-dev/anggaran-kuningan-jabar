@@ -1,0 +1,53 @@
+{
+  "peraturan_gubernur": {
+    "judul": "Data Anggaran Provinsi Jawa Barat On Progress",
+    "nomor": "-",
+    "tanggal_penetapan": "-",
+    "gubernur": "-",
+    "sekretaris_daerah": "-",
+    "ringkasan_anggaran": {
+      "pendapatan": {
+        "total_pendapatan_daerah": null,
+        "detail_pendapatan": {
+          "pendapatan_asli_daerah": {
+            "jumlah": null,
+            "sub_kategori": {}
+          },
+          "pendapatan_transfer": {
+            "jumlah": null,
+            "sub_kategori": {}
+          },
+          "lain_lain_pendapatan_daerah_yang_sah": null
+        }
+      },
+      "belanja": {
+        "total_belanja_daerah": null,
+        "detail_belanja": {
+          "belanja_operasional": {
+            "jumlah": null,
+            "sub_kategori": {}
+          },
+          "belanja_modal": {
+            "jumlah": null,
+            "sub_kategori": {}
+          },
+          "belanja_tidak_terduga": null,
+          "belanja_transfer": null
+        }
+      },
+      "pembiayaan": {
+        "penerimaan_pembiayaan": {
+          "jumlah": null,
+          "sub_kategori": {}
+        },
+        "pengeluaran_pembiayaan": {
+          "jumlah": null,
+          "sub_kategori": {}
+        },
+        "surplus_defisit": null,
+        "pembiayaan_neto": null
+      }
+    }
+  },
+  "message": "Data for Jawa Barat is currently not available. Please check back later."
+}

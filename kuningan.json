@@ -1,0 +1,76 @@
+{
+  "peraturan_bupati": {
+    "judul": "PERUBAHAN ATAS PERATURAN BUPATI KUNINGAN NOMOR 40 TAHUN 2024 TENTANG PENJABARAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2025",
+    "nomor": "3 TAHUN 2025",
+    "tanggal_penetapan": "21 Maret 2025",
+    "bupati": "DIAN RACHMAT YANUAR",
+    "sekretaris_daerah": "BENI PRIHAYATNO",
+    "ringkasan_anggaran": {
+      "pendapatan": {
+        "total_pendapatan_daerah": 2997120881074,
+        "detail_pendapatan": {
+          "pendapatan_asli_daerah": {
+            "jumlah": 481313142004,
+            "sub_kategori": {
+              "pajak_daerah": 242589687886,
+              "retribusi_daerah": 39151299448,
+              "hasil_pengelolaan_kekayaan_daerah_yang_dipisahkan": 7033476838,
+              "lain_lain_pendapatan_asli_daerah_yang_sah": 192538677832
+            }
+          },
+          "pendapatan_transfer": {
+            "jumlah": 2421705847499,
+            "sub_kategori": {
+              "transfer_pemerintah_pusat": 2176282517000,
+              "transfer_antar_daerah": 245423330499
+            }
+          },
+          "lain_lain_pendapatan_daerah_yang_sah": null
+        }
+      },
+      "belanja": {
+        "total_belanja_daerah": 2972120881074,
+        "detail_belanja": {
+          "belanja_operasional": {
+            "jumlah": 2219973039502,
+            "sub_kategori": {
+              "belanja_pegawai": 1356509408069,
+              "belanja_barang_dan_jasa": 780259181683,
+              "belanja_hibah": 75839982250,
+              "belanja_bantuan_sosial": 7364467500
+            }
+          },
+          "belanja_modal": {
+            "jumlah": 247488134572,
+            "sub_kategori": {
+              "belanja_modal_peralatan_dan_mesin": 128045731764,
+              "belanja_modal_bangunan_dan_gedung": 50488362459,
+              "belanja_modal_jalan_irigasi_dan_jaringan": 46591870833,
+              "belanja_modal_aset_tetap_lainnya": 22062938766,
+              "belanja_modal_aset_lainnya": 299230750
+            }
+          },
+          "belanja_tidak_terduga": 12000000000,
+          "belanja_transfer": null
+        }
+      },
+      "pembiayaan": {
+        "penerimaan_pembiayaan": {
+          "jumlah": 48945412687,
+          "sub_kategori": {
+            "sisa_lebih_perhitungan_anggaran_tahun_sebelumnya": 23945412687,
+            "penerimaan_pinjaman_daerah": 25000000000
+          }
+        },
+        "pengeluaran_pembiayaan": {
+          "jumlah": 25000000000,
+          "sub_kategori": {
+            "pembayaran_cicilan_pokok_utang_yang_jatuh_tempo": 25000000000
+          }
+        },
+        "surplus_defisit": -23945412687,
+        "pembiayaan_neto": 23945412687
+      }
+    }
+  }
+}
